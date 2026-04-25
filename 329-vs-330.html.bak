@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
+<meta charset="utf-8"/><meta content="width=device-width,initial-scale=1.0" name="viewport"/>
+<title>Section 329 vs Section 330 - Two Distinct Fee Review Regimes in Bankruptcy</title>
+<meta content="Section 329 reviews debtor-attorney compensation paid or agreed to in the year before filing. Section 330 governs court-approved compensation from the estate. Understanding which statute applies, when, and why the distinction matters for fee disputes." name="description"/>
+<link href="https://section329.org/329-vs-330.html" rel="canonical"/>
+<meta content="2026-04-17" name="last-modified"/>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Section 329 vs Section 330 - Two Distinct Fee Review Regimes","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://openbankruptcyproject.org"},"datePublished":"2026-04-17","dateModified":"2026-04-17"}</script>
+<style>:root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--text:#e6edf3;--muted:#9eaab6;--accent:#58a6ff;--green:#3fb950;--red:#f85149;--yellow:#e3a835}*{margin:0;padding:0;box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.7}a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}nav{background:var(--surface);border-bottom:1px solid var(--border);padding:0.75rem 2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0.5rem}nav .site-name{color:#f0f6fc;font-weight:700;font-size:1.1rem}.nav-links{display:flex;gap:1.25rem;flex-wrap:wrap}.nav-links a{color:var(--muted);font-size:0.9rem}.nav-links a:hover{color:var(--accent);text-decoration:none}.nav-links a.active{color:var(--accent);font-weight:600}header{background:var(--surface);border-bottom:1px solid var(--border);padding:2.5rem 2rem;text-align:center}header h1{color:#f0f6fc;font-size:1.85rem;margin-bottom:0.5rem}header .subtitle{color:var(--muted);font-size:1rem;max-width:760px;margin:0 auto}main{max-width:860px;margin:0 auto;padding:2rem 1.5rem}.sec{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:1.75rem;margin-bottom:1.25rem}.sec h2{color:#f0f6fc;font-size:1.2rem;margin-bottom:0.75rem;padding-bottom:0.4rem;border-bottom:1px solid var(--border)}.sec h3{color:#f0f6fc;font-size:1rem;margin:1rem 0 0.4rem}.sec p{color:var(--text);margin-bottom:0.6rem;font-size:0.93rem}.sec ul,.sec ol{margin:0.5rem 0 0.5rem 1.4rem;font-size:0.93rem}.sec li{margin-bottom:0.3rem}.box{background:#21262d;border-left:3px solid var(--accent);padding:0.9rem 1.15rem;border-radius:0 6px 6px 0;margin:0.9rem 0}.box-w{border-left-color:var(--red)}.box-g{border-left-color:var(--green)}.box-y{border-left-color:var(--yellow)}table{width:100%;border-collapse:collapse;margin:0.9rem 0;font-size:0.88rem}th,td{padding:0.55rem 0.75rem;text-align:left;border-bottom:1px solid var(--border);vertical-align:top}th{color:var(--muted);font-size:0.78rem;text-transform:uppercase;letter-spacing:0.5px;background:#1c2128}footer{background:var(--surface);border-top:1px solid var(--border);padding:1.75rem;text-align:center;margin-top:2.5rem}footer p{color:var(--muted);font-size:0.82rem;margin-bottom:0.4rem}footer .links{display:flex;justify-content:center;flex-wrap:wrap;gap:0.9rem;margin-top:0.6rem}footer .links a{color:var(--muted);font-size:0.82rem}</style>
+</head>
+<body>
+<nav><a class="site-name" href="/">section329.org</a><div class="nav-links"><a href="/">Home</a><a href="/329b-motion.html">329(b) Motion</a><a href="/disgorgement.html">Disgorgement</a><a href="/caselaw.html">Caselaw</a><a class="active" href="/329-vs-330.html">329 vs 330</a><a href="/ust-fee-review.html">UST Review</a></div></nav>
+<header><h1>Section 329 vs Section 330 - Two Distinct Fee Review Regimes</h1><p class="subtitle">These two sections of Title 11 are commonly conflated but they govern different money, at different times, under different burdens. Getting the distinction right determines which motion, which remedy, and which evidentiary record apply.</p></header>
+<main>
+
+<div class="sec"><h2>The Core Distinction in One Line</h2><div class="box"><p><strong><a href="https://www.law.cornell.edu/uscode/text/11/329" rel="noopener" target="_blank">Section 329</a>:</strong> Reviews what the debtor paid or agreed to pay debtor's counsel, personally, within one year before filing (and anything after filing in connection with the case).</p></div><div class="box box-g"><p><strong><a href="https://www.law.cornell.edu/uscode/text/11/330" rel="noopener" target="_blank">Section 330</a>:</strong> Governs what the estate pays professionals whose employment the court approved - reviewed on a forward-looking fee application submitted to the court.</p></div><p>Section 329 is about money that already moved (or is already owed under a pre-petition agreement). Section 330 is about money being requested from the estate going forward. Different source of funds, different burden, different timing, different remedy.</p></div>
+
+<div class="sec"><h2>Side-by-Side Comparison</h2>
+<table>
+<thead><tr><th>Dimension</th><th>Section 329</th><th>Section 330</th></tr></thead>
+<tbody>
+<tr><td><strong>What it reviews</strong></td><td>Compensation paid or agreed to by the debtor to debtor's attorney, in connection with the case</td><td>Compensation from the estate to a court-approved professional (debtor's counsel in Ch 11/13, trustee's counsel, examiner, accountants, etc.)</td></tr>
+<tr><td><strong>Source of funds</strong></td><td>Debtor's pre-petition personal funds (or third-party payor)</td><td>Estate funds (administrative expense, <a href="https://www.law.cornell.edu/uscode/text/11/507" rel="noopener" target="_blank">Section 507(a)(2)</a> priority)</td></tr>
+<tr><td><strong>Time window</strong></td><td>Agreements and payments made "within one year before the date of the filing of the petition" and any time after</td><td>Services rendered during the pendency of the case after employment is approved under <a href="https://www.law.cornell.edu/uscode/text/11/327" rel="noopener" target="_blank">Section 327</a></td></tr>
+<tr><td><strong>Triggered by</strong></td><td>Automatic disclosure duty under <a href="https://www.law.cornell.edu/uscode/text/11/329#a_0" rel="noopener" target="_blank">Section 329(a)</a> + <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a> (no motion required to review); or motion under <a href="https://www.law.cornell.edu/uscode/text/11/329#b_0" rel="noopener" target="_blank">Section 329(b)</a>, <a href="https://www.law.cornell.edu/rules/frbp/rule_2017" rel="noopener" target="_blank">Rule 2017</a></td><td>Fee application filed with the court; notice and hearing on fee application under <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(a)</a></td></tr>
+<tr><td><strong>Court's review standard</strong></td><td>Whether compensation exceeds "reasonable value of any such services"</td><td>"Reasonable compensation for actual, necessary services rendered" - <a href="https://www.law.cornell.edu/uscode/text/11/330#a_1" rel="noopener" target="_blank">Section 330(a)(1)(A)</a>, evaluated using <a href="https://www.law.cornell.edu/uscode/text/11/330#a_3" rel="noopener" target="_blank">Section 330(a)(3)</a> factors</td></tr>
+<tr><td><strong>Remedy</strong></td><td>Cancel the fee agreement; order return of payment "to the extent excessive" - to the estate or payor</td><td>Deny or reduce the requested fee award; or order return of already-paid interim compensation</td></tr>
+<tr><td><strong>Who can trigger</strong></td><td>Any party in interest, the trustee, the UST, or the court sua sponte under <a href="https://www.law.cornell.edu/rules/frbp/rule_2017" rel="noopener" target="_blank">Rule 2017</a></td><td>Primarily adjudicated on the professional's own application; objections by trustee, UST, or any party in interest</td></tr>
+<tr><td><strong>Disclosure framework</strong></td><td><a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a> + supplemental disclosure on later payments</td><td>Detailed time records, project billing, task descriptions, rate justification in the application itself</td></tr>
+<tr><td><strong>Duty is</strong></td><td>Automatic - no court request needed; disclosure is the attorney's affirmative obligation</td><td>Triggered by the attorney's filing of the fee application</td></tr>
+</tbody>
+</table>
+</div>
+
+<div class="sec"><h2>Why the Distinction Matters for Motions</h2>
+<p>A party challenging debtor's counsel's fees in a Chapter 11 or Subchapter V case may have <strong>both</strong> statutes available. Each has different evidentiary requirements and different remedies.</p>
+<h3>If you file under Section 329(b):</h3>
+<ul>
+<li>The violation can be pure disclosure failure - you don't need to prove the fee itself was unreasonable to get cancellation under <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a></li>
+<li>The excessive-fee analysis reaches pre-petition retainer, retainer agreements, and post-petition payments characterized as "in connection with" the case</li>
+<li>Remedy runs to the debtor/payor or the estate, whichever actually paid</li>
+<li>Court has sua sponte authority under <a href="https://www.law.cornell.edu/rules/frbp/rule_2017" rel="noopener" target="_blank">Rule 2017</a></li>
+</ul>
+<h3>If you object under Section 330:</h3>
+<ul>
+<li>The objection is tied to the specific fee application and its supporting records</li>
+<li>The court evaluates the lodestar, the <a href="https://www.law.cornell.edu/uscode/text/11/330#a_3" rel="noopener" target="_blank">Section 330(a)(3)</a> factors, and the necessity/benefit of the services</li>
+<li>Remedy is reduction or denial of the requested compensation from the estate</li>
+<li>Less reach into pre-petition conduct unless it bears directly on the application</li>
+</ul>
+<h3>Combined posture:</h3>
+<p>Where debtor's counsel has (1) failed to disclose required compensation under <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a>, (2) billed excessively, and (3) submitted fee applications from the estate for the same engagement, all three can be attacked in parallel. The 329(b) motion reaches pre-petition money; the 330 objection limits estate-paid compensation; the Rule 2017 petition invites sua sponte review of the record as a whole.</p>
+</div>
+
+<div class="sec"><h2>Worked Example - Consumer Chapter 7</h2>
+<p>Debtor pays attorney <strong>$2,500</strong> pre-petition, signs a retainer promising another <strong>$1,000</strong> post-filing. Attorney files <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a> disclosure reporting only <strong>$1,500</strong>.</p>
+<ul>
+<li><strong>Section 329 applies.</strong> This is debtor-paid (and agreed-to) compensation within one year before filing.</li>
+<li><strong>Section 330 does not apply.</strong> Chapter 7 debtor's counsel is not a court-employed professional under <a href="https://www.law.cornell.edu/uscode/text/11/327" rel="noopener" target="_blank">Section 327</a> and does not receive compensation from the estate.</li>
+<li><strong>Remedy:</strong> Court may order return of the undisclosed amount to the debtor; cancel any balance owed under the retainer; and may order full disgorgement as a sanction for the disclosure failure itself under Eighth/Tenth Circuit standards. See <em><a href="https://www.courtlistener.com/opinion/4891234/" rel="noopener" target="_blank">Stewart</a></em> (8th Cir. 2020) line of cases.</li>
+</ul>
+</div>
+
+<div class="sec"><h2>Worked Example - Subchapter V</h2>
+<p>Debtor pays law firm <strong>$18,000</strong> pre-petition. Firm is employed under <a href="https://www.law.cornell.edu/uscode/text/11/1195" rel="noopener" target="_blank">Section 1195</a>/<a href="https://www.law.cornell.edu/uscode/text/11/327" rel="noopener" target="_blank">327</a>. Firm submits fee applications seeking <strong>$40,000</strong> additional from the estate.</p>
+<ul>
+<li><strong>Section 329 applies</strong> to the $18,000 pre-petition payment plus any later agreements. Reasonableness reviewed against services actually rendered.</li>
+<li><strong>Section 330 applies</strong> to the $40,000 fee application from the estate. Lodestar + <a href="https://www.law.cornell.edu/uscode/text/11/330#a_3" rel="noopener" target="_blank">Section 330(a)(3)</a> factors.</li>
+<li><strong>Disclosure failure</strong> (undisclosed related-party payments, undisclosed engagement-letter terms, undisclosed scope-of-retainer changes) is independently actionable under <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a>.</li>
+<li><strong>UST authority:</strong> 28 U.S.C. <a href="https://www.law.cornell.edu/uscode/text/28/586" rel="noopener" target="_blank">Section 586(a)(3)</a> + <a href="https://www.law.cornell.edu/uscode/text/11/307" rel="noopener" target="_blank">Section 307</a> standing to object under either regime.</li>
+</ul>
+</div>
+
+<div class="sec"><h2>The Reasonableness Standards Overlap, But Are Not Identical</h2>
+<p>Courts apply the lodestar method and the <a href="https://www.law.cornell.edu/uscode/text/11/330#a_3" rel="noopener" target="_blank">Section 330(a)(3)</a> factors under both regimes. But the 329 analysis reaches additional considerations:</p>
+<ul>
+<li>Whether the <strong>scope of services</strong> matches the <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a> disclosure</li>
+<li>Whether the debtor was <strong>adequately informed</strong> at engagement</li>
+<li>Whether the <strong>fee is out of proportion</strong> to typical consumer/small-business bankruptcy fees in the market</li>
+<li>Whether the arrangement creates a <strong>conflict of interest</strong> (e.g., taking the debtor's exempt property as payment)</li>
+</ul>
+<p>Section 330 by contrast focuses specifically on whether services were <strong>actual, necessary, and beneficial</strong> to the estate at the time rendered. Services that benefited only the debtor personally may be compensable under 329 but not under 330.</p>
+</div>
+
+<div class="sec"><h2>Procedural Cross-References</h2>
+<h3>Rule 2016(a) - Fee Applications (Section 330 track)</h3>
+<p>Applications for compensation from the estate. Must be filed with notice under <a href="https://www.law.cornell.edu/rules/frbp/rule_2002" rel="noopener" target="_blank">Rule 2002</a>, must include detailed time records, must cross-reference <a href="https://www.law.cornell.edu/uscode/text/11/330" rel="noopener" target="_blank">Section 330(a)(3)</a> factors.</p>
+<h3>Rule 2016(b) - Compensation Disclosure (Section 329 track)</h3>
+<p>Statement of compensation filed by any attorney representing the debtor. Required regardless of whether compensation comes from the debtor, the estate, or a third party. Continuing duty - supplemental disclosures required when new information arises.</p>
+<h3>Rule 2017 - Sua Sponte Review (Section 329 enforcement)</h3>
+<p>Authorizes the court to investigate debtor-attorney compensation on its own motion. Complementary to party-in-interest motions under <a href="https://www.law.cornell.edu/uscode/text/11/329" rel="noopener" target="_blank">Section 329(b)</a>. See <a href="/rule-2017-sua-sponte.html">Rule 2017 authority</a>.</p>
+</div>
+
+<div class="sec"><h2>Common Errors Party Filings Make</h2>
+<ul>
+<li><strong>Labeling a 329(b) motion as a "fee objection."</strong> This confuses court and opposing counsel. A 329(b) motion is its own affirmative motion for cancellation or return of compensation; a 330 fee objection responds to an application. The styling matters.</li>
+<li><strong>Seeking 330-style reductions without a fee application pending.</strong> Without an application to reduce, the remedy under 330 is procedurally unavailable. The motion must run through 329(b).</li>
+<li><strong>Overlooking pre-petition conduct in a 330 objection.</strong> Pre-petition retainer terms and Rule 2016(b) compliance are typically treated as 329 questions and may be waived in a 330-only posture.</li>
+<li><strong>Failing to plead both.</strong> Where facts support both tracks, the motion should invoke <a href="https://www.law.cornell.edu/uscode/text/11/329#b_0" rel="noopener" target="_blank">Section 329(b)</a>, the applicable portion of <a href="https://www.law.cornell.edu/uscode/text/11/330" rel="noopener" target="_blank">Section 330</a>, and <a href="https://www.law.cornell.edu/rules/frbp/rule_2017" rel="noopener" target="_blank">Rule 2017</a> in the alternative.</li>
+</ul>
+</div>
+
+<div class="sec"><h2>Related Resources</h2>
+<ul>
+<li><a href="/329b-motion.html">How to structure a Section 329(b) motion</a></li>
+<li><a href="/rule-2016b-disclosure.html">Rule 2016(b) disclosure requirements</a></li>
+<li><a href="/rule-2017-sua-sponte.html">Rule 2017 and sua sponte review</a></li>
+<li><a href="/disgorgement.html">Disgorgement remedy mechanics</a></li>
+<li><a href="/fee-app-deficiencies.html">Fee application deficiency checklist</a></li>
+<li><a href="/ust-authority.html">UST authority to review and object</a></li>
+<li><a href="/caselaw.html">Section 329(b) caselaw map</a></li>
+<li><a href="https://bankruptcylawyerreview.org/lodestar.html">Lodestar methodology</a> and <a href="https://bankruptcylawyerreview.org/lodestar-worked-examples.html">worked examples</a></li>
+</ul>
+</div>
+
+</main>
+<footer><p><strong>Open Bankruptcy Project</strong> - Free, open-source bankruptcy information</p><p>Research index only - not legal advice.</p><div class="links"><a href="https://openbankruptcyproject.org">OBP</a><a href="https://bankruptcylawyerreview.org">bankruptcylawyerreview.org</a><a href="https://1328f.com">1328f.com</a></div></footer>
+</body>
+</html>

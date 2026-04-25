@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("set","allow_ad_personalization_signals",false);gtag("config","G-FTWLM223G7");gtag("config","G-053Z64N82F");</script>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Section 329 by Federal Circuit - Attorney Fee Disgorgement Case Law</title>
+<meta content="Browse 11 U.S.C. section 329 attorney fee disgorgement case law organized by federal circuit. All 12 circuits covered." name="description"/>
+<link href="https://section329.org/circuits/" rel="canonical"/>
+<meta content="2026-04-18" name="last-modified"/>
+<meta content="Section 329 by Federal Circuit - Attorney Fee Disgorgement Case Law" property="og:title"/>
+<meta content="Browse 11 U.S.C. section 329 attorney fee disgorgement case law organized by federal circuit. All 12 circuits covered." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://section329.org/circuits/" property="og:url"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<style>
+:root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+.nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+.nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; }
+header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+.content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
+.content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+.content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.5rem 0 0.75rem; }
+.content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+.content-section ul, .content-section ol { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
+.content-section li { margin-bottom: 0.4rem; }
+.statute-box { background: #21262d; border-left: 3px solid var(--accent); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+.case-card { background: #21262d; border: 1px solid var(--border); border-radius: 6px; padding: 1rem 1.25rem; margin: 0.75rem 0; }
+.case-card .cite { color: #f0f6fc; font-weight: 600; margin-bottom: 0.25rem; }
+.case-card .status { display: inline-block; padding: 0.15rem 0.55rem; border-radius: 10px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.5px; margin-right: 0.5rem; }
+.status-binding { background: #1f6feb33; color: #79c0ff; }
+.status-persuasive { background: #3fb95033; color: #3fb950; }
+.status-emerging { background: #e3a83533; color: #e3a835; }
+.content-section table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+.content-section th, .content-section td { padding: 0.6rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
+.content-section th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+.circuit-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+.circuit-card { background: #21262d; border: 1px solid var(--border); border-radius: 6px; padding: 1.25rem; transition: border-color 0.2s; }
+.circuit-card:hover { border-color: var(--accent); }
+.circuit-card h3 { color: #f0f6fc; font-size: 1rem; margin: 0 0 0.35rem; }
+.circuit-card p { color: var(--text-muted); font-size: 0.85rem; margin: 0 0 0.5rem; line-height: 1.45; }
+.circuit-card a { font-size: 0.88rem; font-weight: 600; }
+footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
+footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
+</style>
+</head>
+<body>
+<nav aria-label="Site navigation" role="navigation"><a class="site-name" href="/">section329.org</a><div class="nav-links"><a href="/">Home</a><a href="/fee-disclosure.html">Fee Disclosure</a><a href="/excessive-fees.html">Excessive Fees</a><a href="/329b-motion.html">329(b) Motion</a><a href="/caselaw.html">Caselaw Map</a><a href="/circuits/" class="active">Circuits</a><a href="/disgorgement.html">Disgorgement</a></div></nav>
+<header>
+<h1>Section 329 by Federal Circuit</h1>
+<p class="subtitle">Browse 11 U.S.C. section 329 attorney fee disgorgement case law organized by federal circuit. All 12 circuits covered.</p>
+</header>
+<main>
+<div class="content-section">
+<h2>Why Circuit-Level Matters</h2>
+<p>Attorney fee disgorgement under 11 U.S.C. section 329 is a national doctrine, but every federal circuit applies it differently. The pages below collect the leading in-circuit authorities, Chapter 11 filing volume, and practitioner-calibrated tips for each of the twelve federal circuits.</p>
+<p>Where an in-circuit case has spoken, cite it first. Where doctrine is still developing, the pages identify the adjacent-circuit authority that local bankruptcy courts are most likely to follow. Filing volume is drawn from the Open Bankruptcy Project master dataset (FJC Integrated Database).</p>
+</div>
+<div class="content-section">
+<h2>Browse by Circuit</h2>
+<div class="circuit-grid"><div class="circuit-card"><h3>First Circuit</h3><p>Maine, Massachusetts, New Hampshire, Rhode Island, Puerto Rico</p><a href="/circuits/1st-circuit.html">Read circuit page →</a></div><div class="circuit-card"><h3>Second Circuit</h3><p>New York, Connecticut, Vermont</p><a href="/circuits/2nd-circuit.html">Read circuit page →</a></div><div class="circuit-card"><h3>Third Circuit</h3><p>Pennsylvania, New Jersey, Delaware, Virgin Islands</p><a href="/circuits/3rd-circuit.html">Read circuit page →</a></div><div class="circuit-card"><h3>Fourth Circuit</h3><p>Maryland, Virginia, West Virginia, North Carolina, South Carolina</p><a href="/circuits/4th-circuit.html">Read circuit page →</a></div><div class="circuit-card"><h3>Fifth Circuit</h3><p>Texas, Louisiana, Mississippi</p><a href="/circuits/5th-circuit.html">Read circuit page →</a></div><div class="circuit-card"><h3>Sixth Circuit</h3><p>Michigan, Ohio, Kentucky, Tennessee</p><a href="/circuits/6th-circuit.html">Read circuit page →</a></div><div class="circuit-card"><h3>Seventh Circuit</h3><p>Illinois, Indiana, Wisconsin</p><a href="/circuits/7th-circuit.html">Read circuit page →</a></div><div class="circuit-card"><h3>Eighth Circuit</h3><p>Missouri, Arkansas, Iowa, Minnesota, Nebraska, North Dakota, South Dakota</p><a href="/circuits/8th-circuit.html">Read circuit page →</a></div><div class="circuit-card"><h3>Ninth Circuit</h3><p>California, Oregon, Washington, Arizona, Nevada, Idaho, Montana, Alaska, Hawaii, Guam, N. Mariana Islands</p><a href="/circuits/9th-circuit.html">Read circuit page →</a></div><div class="circuit-card"><h3>Tenth Circuit</h3><p>Colorado, New Mexico, Wyoming, Utah, Kansas, Oklahoma</p><a href="/circuits/10th-circuit.html">Read circuit page →</a></div><div class="circuit-card"><h3>Eleventh Circuit</h3><p>Florida, Georgia, Alabama</p><a href="/circuits/11th-circuit.html">Read circuit page →</a></div><div class="circuit-card"><h3>D.C. Circuit</h3><p>District of Columbia</p><a href="/circuits/dc-circuit.html">Read circuit page →</a></div></div>
+</div>
+<div class="content-section">
+<h2>Back to Main</h2>
+<p><a href="/">Section 329 Home</a></p>
+</div>
+</main>
+<footer><p><strong>Open Bankruptcy Project</strong> - Free, open-source bankruptcy transparency</p><p>Part of the Bankruptcy Transparency Network - section329.org</p><p><a href="https://openbankruptcyproject.org">openbankruptcyproject.org</a> | <a href="/privacy.html">Privacy</a></p><p class="disclaimer">This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.</p></footer>
+</body>
+</html>

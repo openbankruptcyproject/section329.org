@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
+<meta charset="utf-8"/><meta content="width=device-width,initial-scale=1.0" name="viewport"/>
+<title>Rule 2004 Examinations in Attorney Fee Investigation</title>
+<meta content="How to use Fed. R. Bankr. P. 2004 examinations to investigate attorney compensation. Scope, procedure, document requests, deposition practice, and common objections - framed around Section 329(b) and Rule 2016(b) compliance review." name="description"/>
+<link href="https://section329.org/rule-2004-fee-exam.html" rel="canonical"/>
+<meta content="2026-04-17" name="last-modified"/>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Rule 2004 Examinations in Attorney Fee Investigation","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://openbankruptcyproject.org"},"datePublished":"2026-04-17","dateModified":"2026-04-17"}</script>
+<style>:root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--text:#e6edf3;--muted:#9eaab6;--accent:#58a6ff;--green:#3fb950;--red:#f85149;--yellow:#e3a835}*{margin:0;padding:0;box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.7}a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}nav{background:var(--surface);border-bottom:1px solid var(--border);padding:0.75rem 2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0.5rem}nav .site-name{color:#f0f6fc;font-weight:700;font-size:1.1rem}.nav-links{display:flex;gap:1.25rem;flex-wrap:wrap}.nav-links a{color:var(--muted);font-size:0.9rem}.nav-links a:hover{color:var(--accent);text-decoration:none}.nav-links a.active{color:var(--accent);font-weight:600}header{background:var(--surface);border-bottom:1px solid var(--border);padding:2.5rem 2rem;text-align:center}header h1{color:#f0f6fc;font-size:1.85rem;margin-bottom:0.5rem}header .subtitle{color:var(--muted);font-size:1rem;max-width:760px;margin:0 auto}main{max-width:860px;margin:0 auto;padding:2rem 1.5rem}.sec{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:1.75rem;margin-bottom:1.25rem}.sec h2{color:#f0f6fc;font-size:1.2rem;margin-bottom:0.75rem;padding-bottom:0.4rem;border-bottom:1px solid var(--border)}.sec h3{color:#f0f6fc;font-size:1rem;margin:1rem 0 0.4rem}.sec p{color:var(--text);margin-bottom:0.6rem;font-size:0.93rem}.sec ul,.sec ol{margin:0.5rem 0 0.5rem 1.4rem;font-size:0.93rem}.sec li{margin-bottom:0.3rem}.box{background:#21262d;border-left:3px solid var(--accent);padding:0.9rem 1.15rem;border-radius:0 6px 6px 0;margin:0.9rem 0}.box-w{border-left-color:var(--red)}.box-g{border-left-color:var(--green)}.box-y{border-left-color:var(--yellow)}table{width:100%;border-collapse:collapse;margin:0.9rem 0;font-size:0.88rem}th,td{padding:0.55rem 0.75rem;text-align:left;border-bottom:1px solid var(--border);vertical-align:top}th{color:var(--muted);font-size:0.78rem;text-transform:uppercase;letter-spacing:0.5px;background:#1c2128}code{background:#1c2128;padding:0.1rem 0.35rem;border-radius:3px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:0.85rem;color:#f0f6fc}footer{background:var(--surface);border-top:1px solid var(--border);padding:1.75rem;text-align:center;margin-top:2.5rem}footer p{color:var(--muted);font-size:0.82rem;margin-bottom:0.4rem}footer .links{display:flex;justify-content:center;flex-wrap:wrap;gap:0.9rem;margin-top:0.6rem}footer .links a{color:var(--muted);font-size:0.82rem}</style>
+</head>
+<body>
+<nav><a class="site-name" href="/">section329.org</a><div class="nav-links"><a href="/">Home</a><a href="/329b-motion.html">329(b) Motion</a><a href="/rule-2016b-red-flags.html">2016(b) Red Flags</a><a class="active" href="/rule-2004-fee-exam.html">Rule 2004 Exam</a><a href="/caselaw.html">Caselaw</a><a href="/ust-authority.html">UST Authority</a></div></nav>
+<header><h1>Rule 2004 Examinations in Attorney Fee Investigation</h1><p class="subtitle">Fed. R. Bankr. P. <a href="https://www.law.cornell.edu/rules/frbp/rule_2004" rel="noopener" target="_blank">2004</a> is the bankruptcy court's broad investigative tool. This page explains how to use it to examine attorney compensation - scope, procedure, document production, deposition practice, and objection management.</p></header>
+<main>
+
+<div class="sec"><h2>What Rule 2004 Is</h2>
+<p>Rule 2004 permits "any party in interest" to conduct an examination - on motion to the court - of "any entity" regarding "the acts, conduct, or property or... the liabilities and financial condition of the debtor, or... any matter which may affect the administration of the debtor's estate."</p>
+<div class="box"><p><strong>Key characteristic:</strong> Rule 2004 is broader than Rule 26 civil discovery. It is not limited to issues already in controversy; it can be used as a pre-litigation investigation tool, akin to a "fishing expedition" - a label courts have both applied and expressly allowed for.</p></div>
+<p>This scope makes Rule 2004 especially useful for <a href="https://www.law.cornell.edu/uscode/text/11/329#b_0" rel="noopener" target="_blank">Section 329(b)</a> investigations, where the question is whether the attorney's disclosed compensation matches reality. The examiner does not need to plead a specific wrong - only that the subject "may affect" estate administration or the debtor's financial condition.</p>
+</div>
+
+<div class="sec"><h2>When to Use Rule 2004 for Fee Investigation</h2>
+<p>Rule 2004 is typically appropriate when the investigator has reason to believe compensation was undisclosed, misstated, or paid from an improper source, but lacks access to the underlying records. Common trigger scenarios:</p>
+<ul>
+<li>The <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a> disclosure appears incomplete or inconsistent with docket activity</li>
+<li>Schedules or SOFA inconsistently describe pre-petition payments to counsel</li>
+<li>Post-petition disbursements to counsel appear on the docket but are not reflected in any supplemental 2016(b)</li>
+<li>Third-party payor arrangements are suspected but undisclosed</li>
+<li>Scope of services described in the 2016(b) appears materially different from what is visible on the docket</li>
+<li>Fee-sharing arrangements with non-attorneys (petition preparers, lead-generation services) are suspected</li>
+<li>Retainer agreement (engagement letter) terms are unknown and unavailable by informal request</li>
+</ul>
+<div class="box box-y"><p><strong>Before filing a 2004 motion:</strong> Try informal document requests first. Many attorneys will voluntarily produce the engagement letter, time records, and invoices when asked. The Rule 2004 route is appropriate after informal means fail, or when the posture makes informal requests inappropriate.</p></div>
+</div>
+
+<div class="sec"><h2>Who Can File</h2>
+<p>Rule 2004(a) provides that the motion can be filed by "any party in interest." For fee-review purposes, that includes:</p>
+<ul>
+<li>The debtor</li>
+<li>The U.S. Trustee</li>
+<li>The Chapter 7, 11, 12, 13, or Subchapter V trustee</li>
+<li>Any creditor</li>
+<li>A creditors' committee</li>
+<li>Any other entity with a direct financial interest in the case</li>
+</ul>
+<p>The court also has authority to order a Rule 2004 examination sua sponte under its general supervisory authority, often combined with <a href="https://www.law.cornell.edu/rules/frbp/rule_2017" rel="noopener" target="_blank">Rule 2017</a>. See <a href="/rule-2017-sua-sponte.html">Rule 2017 authority</a>.</p>
+</div>
+
+<div class="sec"><h2>Scope of Inquiry - What Rule 2004 Reaches</h2>
+<p>Rule 2004(b) defines scope broadly:</p>
+<div class="box"><p>"The examination... may relate only to the acts, conduct, or property or to the liabilities and financial condition of the debtor, or to any matter which may affect the administration of the debtor's estate, or to the debtor's right to a discharge."</p></div>
+<p>Courts have consistently held that attorney compensation falls squarely within this scope because:</p>
+<ol>
+<li>Pre-petition payments to counsel are part of the debtor's financial condition and the pre-petition transfer record</li>
+<li>Post-petition payments affect the administration of the estate</li>
+<li>Disclosure compliance is a matter of estate integrity and court supervisory authority</li>
+<li>Fee-sharing arrangements may implicate <a href="https://www.law.cornell.edu/uscode/text/11/504" rel="noopener" target="_blank">Section 504</a> and other statutory limits</li>
+</ol>
+<p>For fee investigation specifically, Rule 2004 reaches:</p>
+<ul>
+<li>Engagement letters, retainer agreements, scope memoranda</li>
+<li>Time records, billing invoices, expense records</li>
+<li>Bank statements and trust account records showing retainer receipt and draw-down</li>
+<li>Wire records and check images documenting transfers</li>
+<li>Correspondence with the debtor regarding fees and scope</li>
+<li>Internal firm records allocating time and rates</li>
+<li>Fee arrangements with third-party payors (if applicable)</li>
+<li>Referral and fee-sharing arrangements with non-attorneys</li>
+</ul>
+</div>
+
+<div class="sec"><h2>Procedure - Filing the Motion</h2>
+<p>Rule 2004 examinations are initiated by motion. Requirements:</p>
+<h3>Motion Contents</h3>
+<ul>
+<li>Identity of the person or entity to be examined</li>
+<li>Statement that the examination relates to matters within Rule 2004(b) scope</li>
+<li>Proposed date, time, and location of the examination</li>
+<li>If document production is sought, a list of documents (often attached as an exhibit)</li>
+<li>Service of motion on debtor, UST, and any other parties required by local rule</li>
+</ul>
+<h3>Local Practice</h3>
+<p>Many districts have local rules or procedural orders governing Rule 2004 practice. Some require a court order before the examination occurs; others permit voluntary stipulation. Check the district's local rules and any standing orders before filing.</p>
+<h3>Order</h3>
+<p>If granted, the court issues an order authorizing the examination, typically specifying date/time/location, document production schedule, and any scope limits. A subpoena may issue separately under Rule 2004(c), which incorporates Rule 9016 (subpoena practice).</p>
+</div>
+
+<div class="sec"><h2>Sample Document Request Categories</h2>
+<p>The Rule 2004 document request for an attorney-compensation investigation typically covers these categories. Frame each as a specific "documents sufficient to show" or "all documents" request in the subpoena exhibit:</p>
+<table>
+<thead><tr><th>Category</th><th>What It Produces</th><th>Why It Matters</th></tr></thead>
+<tbody>
+<tr><td>Engagement/retainer agreements with the debtor</td><td>The contract of representation, including scope, fee structure, and payor identity</td><td>Establishes what was actually agreed to; compare to <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a></td></tr>
+<tr><td>All amendments, side letters, or supplemental engagement terms</td><td>Changes to original scope or fee that may not have been disclosed</td><td>Captures post-filing modifications; scope-expansion red flag #12</td></tr>
+<tr><td>Time records, billing diaries, project allocations</td><td>Contemporaneous record of services actually rendered</td><td>Supports <a href="/services-audit.html" >services-rendered vs services-charged</a> analysis</td></tr>
+<tr><td>Invoices to debtor (draft and final)</td><td>What was billed; comparison to what was disclosed</td><td>Reveals billing-cycle patterns and post-billing reductions</td></tr>
+<tr><td>Trust account records relating to the debtor's matter</td><td>When retainer was received, held, and drawn; source of payments</td><td>Documents the mechanics of fee collection</td></tr>
+<tr><td>Bank statements and wire/check records for debtor payments</td><td>Actual source of funds (debtor personal, business, spouse, third party)</td><td>Documents source of payment for <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a> compliance</td></tr>
+<tr><td>All communications regarding fees</td><td>Emails, letters, text messages about fee changes, supplemental retainers, scope</td><td>Documents what the debtor was told vs. what was disclosed</td></tr>
+<tr><td>Fee-sharing or referral agreements</td><td>Any arrangement to share fees with other attorneys or non-attorneys</td><td>Implicates <a href="https://www.law.cornell.edu/uscode/text/11/504" rel="noopener" target="_blank">Section 504</a> and disclosure obligations</td></tr>
+<tr><td>Internal firm rate sheets or standing rate memoranda</td><td>Firm's standard rates for each timekeeper in the relevant period</td><td>Supports "selective pricing" analysis (premium over standard)</td></tr>
+<tr><td>Comparable engagements (if relevant)</td><td>Engagement letters in similar cases to establish pattern</td><td>May require narrow tailoring; court often limits scope</td></tr>
+</tbody>
+</table>
+</div>
+
+<div class="sec"><h2>Examination Procedure</h2>
+<p>The Rule 2004 examination itself is a sworn examination conducted substantially like a deposition:</p>
+<ul>
+<li>Under oath, on the record, transcribed by court reporter</li>
+<li>Counsel for the examinee may attend and object</li>
+<li>Scope of questioning is broad but must relate to Rule 2004(b) subject matter</li>
+<li>No jury, no judge physically present; disputes are raised by later motion</li>
+<li>Typically conducted in counsel's office or examining party's office; increasingly by video</li>
+</ul>
+<p>For fee investigations, an effective 2004 examination of the respondent attorney typically covers:</p>
+<ol>
+<li>Identification of the engagement (letter, scope, parties)</li>
+<li>All sources of compensation (debtor, third party, guarantor)</li>
+<li>Timing of each payment and its source</li>
+<li>Services rendered (what was done, by whom, when)</li>
+<li>Draw-down mechanics if retainer was held in trust</li>
+<li>Any supplemental retainers or side arrangements</li>
+<li>Fee-sharing or referral payments</li>
+<li>The attorney's understanding of <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a> obligations</li>
+<li>Reasons for any discrepancy between what was disclosed and what was paid</li>
+</ol>
+</div>
+
+<div class="sec"><h2>Common Objections and Responses</h2>
+<h3>Objection: "Attorney-client privilege"</h3>
+<p>The attorney may attempt to assert privilege over engagement discussions. Two key responses:</p>
+<ul>
+<li>Fee information and engagement terms are generally not privileged. Courts routinely hold that the fact, amount, and source of payment are not protected.</li>
+<li>In bankruptcy, <a href="https://www.law.cornell.edu/uscode/text/11/329#a_0" rel="noopener" target="_blank">Section 329(a)</a> imposes an affirmative duty to disclose, which displaces any privilege claim over disclosable information.</li>
+<li>The debtor (holder of the privilege) may also waive it by consenting to the examination - often a practical path for debtor-filed 2004s.</li>
+</ul>
+<h3>Objection: "Work product"</h3>
+<p>Work product protects litigation analysis, not time records or fee arrangements. Objection typically fails on routine billing documents.</p>
+<h3>Objection: "Overbroad" or "Fishing expedition"</h3>
+<p>Courts expect 2004 to be broad. The test is whether the subject matter falls within Rule 2004(b), not whether the request is narrow. Reasonable scope limits (time period, document categories, case specificity) typically address overbreadth.</p>
+<h3>Objection: "Burdensome"</h3>
+<p>Routine engagement documents and time records are not burdensome to produce. Where the request genuinely implicates large volumes, courts often allow phased production or sampling.</p>
+<h3>Objection: "Not relevant to estate administration"</h3>
+<p>Attorney compensation is a core estate-administration matter. This objection almost never succeeds for compensation-focused inquiries.</p>
+</div>
+
+<div class="sec"><h2>Interaction with Other Proceedings</h2>
+<h3>Concurrent Section 329(b) Motion</h3>
+<p>Rule 2004 examinations often proceed concurrently with, or as a prelude to, a <a href="https://www.law.cornell.edu/uscode/text/11/329#b_0" rel="noopener" target="_blank">Section 329(b)</a> motion. The examination develops the evidentiary record; the 329(b) motion seeks the remedy. Courts sometimes require one before the other, depending on local practice.</p>
+<h3>Related-Case Discovery</h3>
+<p>If the investigation suggests a pattern of non-disclosure across multiple cases (mill-style practice), the 2004 examination in one case can ground a broader investigation by the UST under 28 U.S.C. <a href="https://www.law.cornell.edu/uscode/text/28/586" rel="noopener" target="_blank">Section 586(a)(3)</a>. See <a href="/ust-authority.html">UST authority</a>.</p>
+<h3>Pending Adversary Proceeding</h3>
+<p>Courts generally hold that Rule 2004 cannot be used to circumvent discovery limits once a contested adversary proceeding is pending on the same subject matter - at that point, Rule 7026+ civil discovery rules apply. This is the "pending proceeding" doctrine.</p>
+<h3>Fee Application Pending</h3>
+<p>If a fee application is pending under <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(a)</a>, Rule 2004 is available to investigate the basis for the application. See <a href="/329-vs-330.html">Section 329 vs 330 distinction</a>.</p>
+</div>
+
+<div class="sec"><h2>Practical Considerations</h2>
+<ul>
+<li><strong>Timing.</strong> File early in the case; evidence deteriorates, memories fade, and post-confirmation posture limits practical remedies.</li>
+<li><strong>Coordination with the UST.</strong> The UST may have already investigated or requested documents informally. Coordinate to avoid duplication and strengthen the record.</li>
+<li><strong>Record preservation.</strong> Request a litigation hold on fee-related records at the time of filing, to prevent spoliation.</li>
+<li><strong>Cost recovery.</strong> The moving party typically bears its own Rule 2004 costs, but significant disgorgement findings can support fee-shifting under various authorities.</li>
+<li><strong>Confidentiality.</strong> Rule 2004 transcripts are generally public; parties can request protective orders for genuinely sensitive material (trust account details, client communications).</li>
+</ul>
+</div>
+
+<div class="sec"><h2>Related Resources</h2>
+<ul>
+<li><a href="/329b-motion.html">How to structure a Section 329(b) motion</a></li>
+<li><a href="/motion-template.html">Motion template</a></li>
+<li><a href="/rule-2016b-disclosure.html">Rule 2016(b) disclosure requirements</a></li>
+<li><a href="/rule-2016b-red-flags.html">Rule 2016(b) red flags checklist</a></li>
+<li><a href="/rule-2017-sua-sponte.html">Rule 2017 sua sponte review</a></li>
+<li><a href="/ust-authority.html">UST authority</a></li>
+<li><a href="/329-vs-330.html">Section 329 vs Section 330 distinction</a></li>
+<li><a href="/fee-app-deficiencies.html">Fee application deficiency checklist</a></li>
+<li><a href="/caselaw.html">Section 329(b) caselaw map</a></li>
+</ul>
+</div>
+
+</main>
+<footer><p><strong>Open Bankruptcy Project</strong> - Free, open-source bankruptcy information</p><p>Research index only - not legal advice.</p><div class="links"><a href="https://openbankruptcyproject.org">OBP</a><a href="https://bankruptcylawyerreview.org">bankruptcylawyerreview.org</a><a href="https://1328f.com">1328f.com</a></div></footer>
+</body>
+</html>

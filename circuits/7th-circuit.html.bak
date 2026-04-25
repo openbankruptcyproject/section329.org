@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("set","allow_ad_personalization_signals",false);gtag("config","G-FTWLM223G7");gtag("config","G-053Z64N82F");</script>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Section 329 in the Seventh Circuit - Attorney Fee Disgorgement Case Law</title>
+<meta content="How 11 U.S.C. section 329 and Rule 2016(b) are applied in the Seventh Circuit (Illinois, Indiana, Wisconsin). Circuit-specific case law, filing volume, and practice tips." name="description"/>
+<link href="https://section329.org/circuits/7th-circuit.html" rel="canonical"/>
+<meta content="2026-04-18" name="last-modified"/>
+<meta content="Section 329 in the Seventh Circuit - Attorney Fee Disgorgement Case Law" property="og:title"/>
+<meta content="How 11 U.S.C. section 329 and Rule 2016(b) are applied in the Seventh Circuit (Illinois, Indiana, Wisconsin). Circuit-specific case law, filing volume, and practice tips." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://section329.org/circuits/7th-circuit.html" property="og:url"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<style>
+:root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+.nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+.nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; }
+header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+.content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
+.content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+.content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.5rem 0 0.75rem; }
+.content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+.content-section ul, .content-section ol { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
+.content-section li { margin-bottom: 0.4rem; }
+.statute-box { background: #21262d; border-left: 3px solid var(--accent); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+.case-card { background: #21262d; border: 1px solid var(--border); border-radius: 6px; padding: 1rem 1.25rem; margin: 0.75rem 0; }
+.case-card .cite { color: #f0f6fc; font-weight: 600; margin-bottom: 0.25rem; }
+.case-card .status { display: inline-block; padding: 0.15rem 0.55rem; border-radius: 10px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.5px; margin-right: 0.5rem; }
+.status-binding { background: #1f6feb33; color: #79c0ff; }
+.status-persuasive { background: #3fb95033; color: #3fb950; }
+.status-emerging { background: #e3a83533; color: #e3a835; }
+.content-section table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+.content-section th, .content-section td { padding: 0.6rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
+.content-section th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+.circuit-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+.circuit-card { background: #21262d; border: 1px solid var(--border); border-radius: 6px; padding: 1.25rem; transition: border-color 0.2s; }
+.circuit-card:hover { border-color: var(--accent); }
+.circuit-card h3 { color: #f0f6fc; font-size: 1rem; margin: 0 0 0.35rem; }
+.circuit-card p { color: var(--text-muted); font-size: 0.85rem; margin: 0 0 0.5rem; line-height: 1.45; }
+.circuit-card a { font-size: 0.88rem; font-weight: 600; }
+footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
+footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
+</style>
+</head>
+<body>
+<nav aria-label="Site navigation" role="navigation"><a class="site-name" href="/">section329.org</a><div class="nav-links"><a href="/">Home</a><a href="/fee-disclosure.html">Fee Disclosure</a><a href="/excessive-fees.html">Excessive Fees</a><a href="/329b-motion.html">329(b) Motion</a><a href="/caselaw.html">Caselaw Map</a><a href="/circuits/">Circuits</a><a href="/disgorgement.html">Disgorgement</a></div></nav>
+<header>
+<h1>Section 329 in the Seventh Circuit</h1>
+<p class="subtitle">Attorney fee disclosure, reasonableness review, and disgorgement doctrine as applied across Illinois, Indiana, Wisconsin.</p>
+</header>
+<main>
+<div class="content-section">
+<h2>Statutory Overview</h2>
+<p><a href="https://www.law.cornell.edu/uscode/text/11/329" rel="noopener" target="_blank">11 U.S.C. section 329</a> imposes two duties on every attorney representing a debtor: (1) disclose all compensation paid or agreed to within one year before the petition (section 329(a), implemented by <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Fed. R. Bankr. P. 2016(b)</a>); and (2) submit to a reasonableness review under section 329(b), with the court empowered to cancel the agreement or order the return of any excessive payment. The standard operates nationally, but circuits differ meaningfully in how strictly they enforce disclosure, whether they treat disgorgement as a sanction or a regulatory remedy, and whether they require proof of harm before ordering full disgorgement.</p>
+<div class="statute-box"><p><strong>11 U.S.C. section 329(b):</strong> "If such compensation exceeds the reasonable value of any such services, the court may cancel any such agreement, or order the return of any such payment, to the extent excessive..."</p></div>
+<p>This page collects the Seventh Circuit's leading authorities on each prong, surveys the circuit's Chapter 11 and Subchapter V filing footprint, and ends with practical tips calibrated to the local bench and U.S. Trustee posture.</p>
+</div>
+
+<div class="content-section">
+<h2>Leading Case Law in the Seventh Circuit</h2>
+<p>The cases below are the ones most frequently cited in fee-review motions and U.S. Trustee filings across the circuit's bankruptcy districts. Status badges indicate whether the authority is binding (a circuit-court opinion) or persuasive (district, BAP, or bankruptcy-court opinion - or out-of-circuit authority that is routinely followed in-circuit).</p>
+<div class="case-card"><p class="cite"><span class="status status-persuasive">Persuasive</span> In re Chapel Gate Apartments, Ltd., 64 B.R. 569 (Bankr. N.D. Tex. 1986)</p><p>Cited by N.D. Ill. bankruptcy judges on disgorgement mechanics.</p></div><div class="case-card"><p class="cite"><span class="status status-persuasive">Persuasive</span> Matter of Kisseberth, 273 F.3d 714 (6th Cir. 2001)</p><p>Followed by Seventh Circuit bankruptcy courts on disclosure in consumer cases.</p></div><div class="case-card"><p class="cite"><span class="status status-persuasive">Persuasive</span> In re Whitley, 737 F.3d 980 (5th Cir. 2014)</p><p>Cited in S.D. Ind. for source-of-funds inquiry.</p></div>
+<p>Practitioners should always confirm currency on Westlaw or CourtListener; fee-review doctrine evolves through bankruptcy-court opinions faster than circuit-court opinions. Where the Seventh Circuit has not spoken definitively, bankruptcy judges in the circuit frequently draw on Third Circuit (<em>Engel</em>), Ninth Circuit (<em>Park-Helena</em>), and Tenth Circuit (<em>Stewart</em>, <em>Investment Bankers</em>) authority.</p>
+</div>
+
+<div class="content-section">
+<h2>Chapter 11 Filing Volume in the Seventh Circuit</h2>
+<p>Across this circuit's bankruptcy districts, the Open Bankruptcy Project master dataset records <strong>543</strong> Chapter 11 cases, distributed as follows (district codes use the standard CM/ECF short form):</p><table><thead><tr><th>District Code</th><th>Ch. 11 Cases</th></tr></thead><tbody><tr><td><code>ilnbk</code></td><td>290</td></tr><tr><td><code>insbk</code></td><td>183</td></tr><tr><td><code>innbk</code></td><td>64</td></tr><tr><td><code>wiwbk</code></td><td>3</td></tr><tr><td><code>wiebk</code></td><td>2</td></tr><tr><td><code>ilsbk</code></td><td>1</td></tr></tbody></table><p>Chapter 11 counts are a reasonable proxy for Subchapter V and complex business fee-review activity. Consumer Chapter 7 and Chapter 13 volume is much larger and is not shown here.</p>
+<p>Fee-review activity is concentrated in districts with active U.S. Trustee fee-examiner programs and in courts that operate a standing order on attorney compensation. Volume alone does not predict the intensity of fee review: some low-volume districts apply section 329 more rigorously than high-volume districts because individual cases draw more judicial attention.</p>
+</div>
+
+<div class="content-section">
+<h2>Practice Tips for the Seventh Circuit</h2>
+<ul><li>N.D. Ill. has the largest Chapter 13 volume in the circuit; the trustee and UST police Rule 2016(b) aggressively.</li><li>Without a single controlling Seventh Circuit opinion on every 329(b) question, counsel should rely on persuasive Sixth- and Ninth-Circuit authority.</li><li>S.D. Ind. has local rules requiring supplemental disclosure whenever additional fees are received - check before assuming safe-harbor.</li></ul>
+<p>These tips are generalizations drawn from published opinions and U.S. Trustee bulletins; every district has local rules and standing orders that may supplement or displace them. Before filing any fee-related motion, pull the relevant local rules and the assigned judge's standing orders, and check whether the district has a published fee-guideline schedule (some districts publish presumptive caps for no-look consumer fees).</p>
+</div>
+
+<div class="content-section">
+<h2>Related Resources</h2>
+<ul>
+<li><a href="/caselaw.html">Section 329(b) Caselaw Map</a> - Curated national case law with CourtListener deep links.</li>
+<li><a href="/329b-motion.html">Filing a Section 329(b) Motion</a> - Standing, procedure, and what to prove.</li>
+<li><a href="/ust-authority.html">UST Authority</a> - The U.S. Trustee's role in policing attorney fees under section 307.</li>
+<li><a href="/rule-2016b-disclosure.html">Rule 2016(b) Disclosure</a> - Initial and supplemental statements.</li>
+<li><a href="/fee-app-deficiencies.html">Fee Application Deficiencies</a> - 19-category red-flag checklist.</li>
+<li><a href="/circuits/">All Circuits</a> - Browse every federal circuit.</li>
+</ul>
+</div>
+</main>
+<footer><p><strong>Open Bankruptcy Project</strong> - Free, open-source bankruptcy transparency</p><p>Part of the Bankruptcy Transparency Network - section329.org</p><p><a href="https://openbankruptcyproject.org">openbankruptcyproject.org</a> | <a href="/privacy.html">Privacy</a></p><p class="disclaimer">This page provides general information only and is not legal advice. Every citation should be independently verified before filing. Case law develops; confirm current status with primary sources.</p></footer>
+</body>
+</html>

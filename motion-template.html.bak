@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1.0" name="viewport"/>
+<title>Section 329(b) Motion Template - Structural Scaffold for Fee Review</title>
+<meta content="Structural scaffold for a Section 329(b) attorney fee review motion. Caption, jurisdiction, factual recitation, legal argument by prong, remedy request. Adaptable template for movants, U.S. Trustees, and courts." name="description"/>
+<link href="https://section329.org/motion-template.html" rel="canonical"/>
+<meta content="2026-04-17" name="last-modified"/>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":"Section 329(b) Motion Template","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://openbankruptcyproject.org"},"datePublished":"2026-04-17","dateModified":"2026-04-17","description":"Structural scaffold for Section 329(b) fee review motions."}
+</script>
+<style>:root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--text:#e6edf3;--muted:#9eaab6;--accent:#58a6ff;--green:#3fb950;--red:#f85149;--yellow:#e3a835;--purple:#a371f7}*{margin:0;padding:0;box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.7}a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}nav{background:var(--surface);border-bottom:1px solid var(--border);padding:0.75rem 2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0.5rem}nav .site-name{color:#f0f6fc;font-weight:700;font-size:1.1rem}.nav-links{display:flex;gap:1.25rem;flex-wrap:wrap}.nav-links a{color:var(--muted);font-size:0.9rem}.nav-links a:hover{color:var(--accent);text-decoration:none}.nav-links a.active{color:var(--accent);font-weight:600}header{background:var(--surface);border-bottom:1px solid var(--border);padding:2.5rem 2rem;text-align:center}header h1{color:#f0f6fc;font-size:1.85rem;margin-bottom:0.5rem}header .subtitle{color:var(--muted);font-size:1rem;max-width:760px;margin:0 auto}main{max-width:860px;margin:0 auto;padding:2rem 1.5rem}.sec{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:1.75rem;margin-bottom:1.25rem}.sec h2{color:#f0f6fc;font-size:1.2rem;margin-bottom:0.75rem;padding-bottom:0.4rem;border-bottom:1px solid var(--border)}.sec h3{color:#f0f6fc;font-size:1.05rem;margin:1.25rem 0 0.6rem}.sec p{color:var(--text);margin-bottom:0.6rem;font-size:0.93rem}.sec ul,.sec ol{margin:0.5rem 0 0.5rem 1.4rem;font-size:0.93rem}.sec li{margin-bottom:0.3rem}.box{background:#21262d;border-left:3px solid var(--accent);padding:0.9rem 1.15rem;border-radius:0 6px 6px 0;margin:0.9rem 0}.box-purple{border-left-color:var(--purple)}.box-w{border-left-color:var(--red)}.box-g{border-left-color:var(--green)}.box-y{border-left-color:var(--yellow)}.tmpl{background:#0a0e14;border:1px solid var(--border);border-radius:6px;padding:1.5rem;margin:1rem 0;font-family:"SF Mono","Consolas","Monaco",monospace;font-size:0.85rem;color:var(--text);line-height:1.5;white-space:pre-wrap;overflow-x:auto}.tmpl em{color:var(--yellow);font-style:normal;font-weight:600}.tmpl strong{color:var(--accent);font-weight:700}footer{background:var(--surface);border-top:1px solid var(--border);padding:1.75rem;text-align:center;margin-top:2.5rem}footer p{color:var(--muted);font-size:0.82rem;margin-bottom:0.4rem}footer .links{display:flex;justify-content:center;flex-wrap:wrap;gap:0.9rem;margin-top:0.6rem}footer .links a{color:var(--muted);font-size:0.82rem}</style>
+</head>
+<body>
+<nav><a class="site-name" href="/">section329.org</a><div class="nav-links"><a href="/">Home</a><a href="/329b-motion.html">329(b) Motion</a><a class="active" href="/motion-template.html">Template</a><a href="/caselaw.html">Caselaw</a><a href="/rule-2017-sua-sponte.html">Rule 2017</a><a href="/ust-fee-review.html">UST Review</a></div></nav>
+<header><h1><a href="https://www.law.cornell.edu/uscode/text/11/329#b_0" rel="noopener" target="_blank">Section 329(b)</a> Motion Template</h1><p class="subtitle">Structural scaffold for a <a href="https://www.law.cornell.edu/uscode/text/11/329#b_0" rel="noopener" target="_blank">Section 329(b)</a> fee review motion. Organized by doctrinal prong with caselaw anchors. Usable by movants, U.S. Trustees, courts reviewing sua sponte, and successor counsel. Research index only - adapt to the specific case record.</p></header>
+<main>
+<div class="sec"><h2>Template Architecture</h2><p>A Section 329(b) motion has a predictable seven-part structure. Each part maps to a doctrinal element. This page provides fillable scaffolding for each part with italicized placeholders in square brackets. Citations to primary authority and caselaw are anchored to the <a href="/caselaw.html">Section 329(b) caselaw map</a>.</p><ol><li><strong>Caption and jurisdictional statement</strong></li><li><strong>Parties and movant's standing</strong></li><li><strong>Factual recitation</strong> (payments received, services disclosed, services delivered)</li><li><strong>Disclosure prong</strong> (<a href="https://www.law.cornell.edu/uscode/text/11/329#a_0" rel="noopener" target="_blank">Section 329(a)</a> / <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a> compliance)</li><li><strong>Reasonableness prong</strong> (lodestar + <a href="https://www.law.cornell.edu/uscode/text/11/330#a_3" rel="noopener" target="_blank">Section 330(a)(3)</a> factors)</li><li><strong>Remedy</strong> (full vs partial disgorgement)</li><li><strong>Procedural relief requested</strong> (notice, hearing, specific order)</li></ol><div class="box box-w"><p>This template is a research scaffold. Specific jurisdictions have local rule requirements for motion form, service, and hearing procedures. Always check local rules and the specific bankruptcy court's standing orders before filing.</p></div></div>
+<div class="sec"><h2>Part 1: Caption and Jurisdictional Statement</h2><div class="tmpl">UNITED STATES BANKRUPTCY COURT
+<em>[District]</em>
+
+In re:
+<em>[Debtor Name]</em>,                     Case No. <em>[Number]</em>
+                                          Chapter <em>[7 / 11 / Sub V / 12 / 13]</em>
+Debtor.
+
+<em>[Movant Name]</em>'s MOTION UNDER 11 U.S.C. § 329(b)
+AND FED. R. BANKR. P. 2017
+TO REVIEW ATTORNEY COMPENSATION AND
+ORDER DISGORGEMENT OF EXCESSIVE FEES
+
+<strong>[Movant]</strong>, by and through <em>[counsel / pro se / UST authority]</em>,
+hereby moves this Court for an order under 11 U.S.C. § 329(b)
+and Fed. R. Bankr. P. 2017(a) and (b) reviewing the
+compensation paid to <em>[Attorney/Firm Name]</em> and ordering
+the return of compensation in excess of the reasonable value
+of services rendered.
+
+Jurisdiction is proper under 28 U.S.C. §§ 1334 and 157(b)(2)(A).
+This is a core proceeding.</div></div>
+<div class="sec"><h2>Part 2: Parties and Movant's Standing</h2><div class="tmpl"><strong>PARTIES</strong>
+
+1. Debtor: <em>[Name, type (individual/corporate/partnership)]</em>.
+2. Counsel Subject to Review: <em>[Attorney Name, Firm, Bar Number, State]</em>.
+3. <em>[Other interested parties, trustee, Sub V trustee]</em>.
+
+<strong>MOVANT'S STANDING</strong>
+
+4. Movant has standing under <em>[select]</em>:
+   [ ] <a href="https://www.law.cornell.edu/uscode/text/11/307" rel="noopener" target="_blank">11 U.S.C. § 307</a> (U.S. Trustee general intervention authority)
+   [ ] Fed. R. Bankr. P. 2017(a) (party in interest, pre-petition payments)
+   [ ] Fed. R. Bankr. P. 2017(b) (debtor, UST, or court, post-petition)
+   [ ] Court's own initiative (sua sponte under <a href="https://www.law.cornell.edu/rules/frbp/rule_2017" rel="noopener" target="_blank">Rule 2017</a>)
+
+5. <em>[If UST]</em>: <a href="https://www.law.cornell.edu/uscode/text/11/307" rel="noopener" target="_blank">Section 307</a> grants the United States Trustee
+   authority to raise any issue in any case or proceeding under
+   Title 11. This motion is brought pursuant to that authority.</div><p style="color:var(--muted);font-size:0.85rem">For authority on standing, see <a href="/rule-2017-sua-sponte.html">Rule 2017 and sua sponte authority</a>. Section 307 standing is the foundational basis for any UST-initiated motion.</p></div>
+<div class="sec"><h2>Part 3: Factual Recitation</h2><div class="tmpl"><strong>FACTS</strong>
+<strong>A. Compensation Paid and Agreed</strong>
+
+6. On or about <em>[date]</em>, Debtor engaged <em>[Attorney]</em> to
+   represent the Debtor in <em>[matter]</em>.
+7. Pursuant to the engagement letter dated <em>[date]</em>, the
+   hourly rate was <em>[$rate]</em> for attorneys and <em>[$rate]</em>
+   for paralegals.
+8. Debtor (or non-debtor third party <em>[identify]</em>) paid
+   <em>[Attorney]</em> the total sum of <em>$[amount]</em> between
+   <em>[date]</em> and <em>[date]</em>.
+
+<strong>B. Disclosures Filed</strong>
+
+9. On <em>[date]</em>, <em>[Attorney]</em> filed a <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a>
+   statement at Docket Entry <em>[#]</em>. The statement
+   disclosed compensation of <em>$[amount]</em> at an hourly
+   rate of <em>$[rate]</em>.
+10. <em>[If applicable]</em>: No supplemental Rule 2016(b)
+    statement was filed for <em>[rate increase / additional
+    payment / third-party payment]</em>.
+
+<strong>C. Services Delivered</strong>
+
+11. Review of the case docket reveals <em>[Attorney]</em>'s work
+    product consisting of <em>[list filings, appearances,
+    discrete deliverables]</em>.
+12. Total billable hours recorded: <em>[hours]</em>.
+13. <em>[Identify any services charged but not reflected in the
+    case record; attach billing statement as Exhibit A]</em>.</div></div>
+<div class="sec"><h2>Part 4: Disclosure Prong (<a href="https://www.law.cornell.edu/uscode/text/11/329#a_0" rel="noopener" target="_blank">Section 329(a)</a> / Rule 2016(b))</h2><div class="tmpl"><strong>LEGAL ARGUMENT - DISCLOSURE</strong>
+
+14. Section 329(a) requires every attorney representing a debtor
+    to disclose all compensation "paid or agreed to be paid,"
+    if such payment was made within one year before the filing
+    date. See 11 U.S.C. § 329(a).
+
+15. Rule 2016(b) implements Section 329(a) by requiring the
+    attorney to file a disclosure statement within 14 days of
+    the order for relief, and a supplemental statement within
+    14 days of any payment or agreement not previously disclosed.
+
+16. <em>[Attorney]</em>'s disclosure was deficient because:
+    <em>[select applicable]</em>
+    [ ] The initial statement was filed late
+    [ ] The disclosed rate differs from the rate actually billed
+    [ ] Supplemental disclosure was required for [change] and
+        was not filed
+    [ ] Source of compensation was not properly disclosed
+    [ ] Fee-sharing arrangements were not disclosed
+
+17. Under <em>In re Stewart</em>, 970 F.3d 1255 (10th Cir. 2020),
+    the presumptive remedy for failure to comply with Section
+    329(a) and Rule 2016(b) is full disgorgement. The attorney
+    bears the burden to show why less-than-full disgorgement
+    applies.
+
+18. Acquiescence by the debtor is not a defense to a disclosure
+    violation. <em>In re Downs</em>, 103 F.3d 472 (6th Cir. 1996).
+    The purpose of <a href="https://www.law.cornell.edu/uscode/text/11/329" rel="noopener" target="_blank">Section 329</a> is to protect the court and
+    creditors, not only the debtor. <em>In re Park-Helena Corp.</em>,
+    63 F.3d 877 (9th Cir. 1995).</div><p style="color:var(--muted);font-size:0.85rem">See <a href="/rule-2016b-disclosure.html">Rule 2016(b) disclosure compliance</a> + <a href="/329a-disclosure.html">Section 329(a) disclosure standard</a> for the full framework.</p></div>
+<div class="sec"><h2>Part 5: Reasonableness Prong (Lodestar + <a href="https://www.law.cornell.edu/uscode/text/11/330#a_0" rel="noopener" target="_blank">Section 330(a)</a>(3))</h2><div class="tmpl"><strong>LEGAL ARGUMENT - REASONABLENESS</strong>
+
+19. Even absent disclosure violations, Section 329(b) authorizes
+    the Court to cancel the fee agreement and order return of
+    any payment "to the extent [it] exceeds the reasonable
+    value of any such services." 11 U.S.C. § 329(b).
+
+20. Reasonable value is measured under the <a href="https://www.law.cornell.edu/uscode/text/11/330#a_3" rel="noopener" target="_blank">Section 330(a)(3)</a>
+    factors, which the Court imports into the Section 329(b)
+    analysis. The factors include:
+       (A) time spent,
+       (B) rates charged,
+       (C) necessity and benefit of the services,
+       (D) timeliness commensurate with complexity,
+       (E) skill and experience of the attorney, and
+       (F) comparable non-bankruptcy compensation.
+
+21. The lodestar method is the primary analytical tool:
+    reasonable hours x reasonable hourly rate. See <em>In re
+    Apex Oil Co.</em>, 960 F.2d 728 (8th Cir. 1992);
+    <em>In re Market Center East Retail Property, Inc.</em>,
+    730 F.3d 1239 (10th Cir. 2013).
+
+22. The Court must conduct an independent reasonableness
+    inquiry and cannot rubber-stamp an unopposed fee
+    arrangement. <em>In re Busy Beaver Bldg. Centers, Inc.</em>,
+    19 F.3d 833 (3d Cir. 1994).
+
+23. Applying the lodestar and <a href="https://www.law.cornell.edu/uscode/text/11/330#a_0" rel="noopener" target="_blank">Section 330(a)</a>(3) factors to this
+    case:
+    <em>[Detail the specific application: hours recorded vs
+    hours reasonably expended, rate charged vs reasonable rate,
+    necessity of services, quality of deliverables,
+    timeliness, skill demonstrated, comparable rates]</em>.
+
+24. The Section 330(a)(3) factors demonstrate that compensation
+    of <em>$[disclosed / approved amount]</em> exceeds reasonable
+    value by <em>$[excess]</em>. The excess is subject to return
+    under Section 329(b).</div><p style="color:var(--muted);font-size:0.85rem">See <a href="https://bankruptcylawyerreview.org/lodestar.html">lodestar methodology</a> + <a href="https://bankruptcylawyerreview.org/services-audit.html">services-rendered vs services-charged audit</a> for the quantification framework.</p></div>
+<div class="sec"><h2>Part 6: Remedy (Full vs Partial Disgorgement)</h2><div class="tmpl"><strong>REMEDY REQUESTED</strong>
+
+25. Section 329(b) authorizes the Court to "cancel any such
+    agreement, or order the return of any such payment, to the
+    extent excessive," to the estate (in Chapter 11/12/13 or
+    where funds would be estate property) or to the entity that
+    made the payment.
+
+26. <em>[Select remedy posture]</em>:
+
+    [ ] FULL DISGORGEMENT - presumptive remedy where disclosure
+        violations are present. See <em>In re Stewart</em>, 970
+        F.3d 1255; <em>In re Prudhomme</em>, 43 F.3d 1000
+        (5th Cir. 1995) (affirming full disgorgement of $75,000
+        retainer). Total amount: <em>$[full amount paid]</em>.
+
+    [ ] PARTIAL DISGORGEMENT - appropriate where reasonableness-only
+        challenge and disclosure was adequate. Amount: <em>$[excess
+        over reasonable value]</em>, calculated as <em>$[paid] -
+        $[reasonable value per lodestar]</em>.
+
+27. <em>[Additional relief, if appropriate]</em>:
+    [ ] Pre-judgment interest from date of original payment
+    [ ] Post-judgment interest until paid
+    [ ] Sanctions for willful or bad-faith conduct
+    [ ] Denial of future compensation in this case
+    [ ] Referral to state bar disciplinary authority
+    [ ] Coordination with the <a href="https://www.justice.gov/ust" rel="noopener" target="_blank">U.S. Trustee Program</a> for any
+        related enforcement action</div><p style="color:var(--muted);font-size:0.85rem">See <a href="/disgorgement.html">disgorgement remedy mechanics</a> for full vs partial framework.</p></div>
+<div class="sec"><h2>Part 7: Procedural Relief Requested</h2><div class="tmpl"><strong>WHEREFORE</strong>, Movant respectfully requests that the Court:
+
+   A. Set this motion for hearing on notice to <em>[Attorney
+      subject to review, Debtor, U.S. Trustee, trustee if any,
+      and all parties in interest]</em>;
+
+   B. After notice and a hearing, enter an order pursuant to
+      11 U.S.C. § 329(b) and Fed. R. Bankr. P. 2017:
+
+      (1) Finding that the compensation paid to <em>[Attorney]</em>
+          exceeds the reasonable value of services rendered
+          <em>[and/or that disclosures under Section 329(a) and
+          Rule 2016(b) were deficient]</em>;
+
+      (2) Canceling any fee agreement to the extent it provides
+          for excessive compensation;
+
+      (3) Ordering <em>[Attorney]</em> to return <em>$[amount]</em>
+          to <em>[the estate / the entity that made the payment]</em>
+          within <em>[14 / 30]</em> days;
+
+      (4) <em>[Additional relief as listed in Part 6]</em>;
+
+      (5) Retaining jurisdiction to enforce this order.
+
+   C. Grant such other relief as the Court deems just and proper.
+
+Respectfully submitted,
+
+<em>[Signature block]</em>
+<em>[Date]</em></div></div>
+<div class="sec"><h2>Supporting Declaration Framework</h2><p>A Section 329(b) motion is typically supported by a declaration attaching the three primary documents:</p><ol><li><strong>Exhibit A:</strong> The Rule 2016(b) disclosure statement as filed (with any supplemental statements)</li><li><strong>Exhibit B:</strong> The engagement letter / retainer agreement</li><li><strong>Exhibit C:</strong> The complete billing record showing dates, tasks, hours, and amounts</li></ol><p>Optional exhibits strengthen the motion:</p><ul><li><strong>Exhibit D:</strong> Rate comparators from other filings by the same attorney or firm in contemporaneous cases</li><li><strong>Exhibit E:</strong> Docket-reference table showing services charged versus docket-verifiable deliverables</li><li><strong>Exhibit F:</strong> Billing-review analysis showing red-flag categories and quantified disparities (see <a href="https://bankruptcylawyerreview.org/services-audit.html">services audit framework</a>)</li></ul></div>
+<div class="sec"><h2>Chapter-Specific Adaptations</h2><h3>Chapter 7</h3><p>Disgorgement typically ordered to the debtor (Section 329(b)(2)) since fees were paid pre-petition from funds that would not have been estate property post-filing. Trustee may have standing in addition to the debtor.</p><h3>Chapter 11 / Subchapter V</h3><p>Disgorgement typically ordered to the estate (Section 329(b)(1)). Interim fee applications may have been filed; Section 329(b) review is independent of prior interim approvals. Sub V has additional considerations under <a href="https://www.law.cornell.edu/uscode/text/11/1195" rel="noopener" target="_blank">Section 1195</a> trustee compensation. See <a href="/subchapter-v-fees.html">Subchapter V fee review</a>.</p><h3>Chapter 13</h3><p>Disgorgement typically ordered to the estate for distribution under the plan. Fees charged in connection with the case, including no-look fees, remain subject to reasonableness review.</p></div>
+<div class="sec"><h2>Corporate Debtor Pro Se Limitation</h2><p>A corporate debtor (corporation, LLC, partnership) cannot file a Section 329(b) motion pro se. <em><a href="https://www.courtlistener.com/c/U.S./506/194/" rel="noopener" target="_blank">Rowland v. California Men's Colony</a></em>, 506 U.S. 194 (1993). In such cases, the practical paths to relief are:</p><ol><li><strong>U.S. Trustee motion</strong> under Section 307 and <a href="https://www.law.cornell.edu/rules/frbp/rule_2017" rel="noopener" target="_blank">Rule 2017(b)</a></li><li><strong>Court sua sponte</strong> under Rule 2017</li><li><strong>Sub V trustee motion</strong>, if within scope</li><li><strong>Successor counsel</strong>, once retained</li><li><strong>Creditor motion</strong>, as party in interest under Rule 2017(a)</li></ol><div class="box box-g"><p>The corporate-debtor standing limitation is one reason the U.S. Trustee's Section 307 authority is critical in fee review. Where the debtor cannot self-file, the UST's authority to move is often the only practical path to reach a fee review.</p></div></div>
+<div class="sec"><h2>Related Resources</h2><ul><li><a href="/caselaw.html">Section 329(b) caselaw map</a> - 8th + 10th Circuit + foundational authority</li><li><a href="/329b-motion.html">329(b) motion mechanics overview</a></li><li><a href="/rule-2016b-disclosure.html">Rule 2016(b) disclosure compliance</a></li><li><a href="/329a-disclosure.html">Section 329(a) disclosure standard</a></li><li><a href="/disgorgement.html">Disgorgement remedy mechanics</a></li><li><a href="/rule-2017-sua-sponte.html">Rule 2017 and sua sponte authority</a></li><li><a href="/subchapter-v-fees.html">Subchapter V fee review specialty</a></li><li><a href="/ust-fee-review.html">U.S. Trustee fee review process</a></li><li><a href="https://bankruptcylawyerreview.org/lodestar.html">Lodestar methodology</a></li><li><a href="https://bankruptcylawyerreview.org/services-audit.html">Services-rendered vs services-charged audit</a></li></ul></div>
+</main>
+<footer><p><strong>Open Bankruptcy Project</strong> - Free, open-source bankruptcy information</p><p>Research index only - not legal advice. Every motion must be adapted to the specific case record.</p><div class="links"><a href="https://openbankruptcyproject.org">OBP</a><a href="https://1328f.com">1328f.com</a><a href="https://bankruptcylawyerreview.org">Lawyer Review</a></div></footer>
+</body></html>

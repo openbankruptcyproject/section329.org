@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<!-- BTN:GA4:START -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>Section 329 Fee Disgorgement - Get Fees Back [2026]</title>
+<meta content="Section 329 lets courts order fee disgorgement from bankruptcy attorneys. Learn how to file, what evidence you need, and fee limits. 2026 guide." name="description"/>
+<meta content="section 329, fee disgorgement, attorney fees bankruptcy, excessive fees, Rule 2016(b), fee disclosure, unreasonable fees" name="keywords"/>
+<link href="https://section329.org/" rel="canonical"/>
+<link href="https://section329.org/" hreflang="en" rel="alternate"/>
+<link href="https://section329.org/es.html" hreflang="es" rel="alternate"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<meta content="#0d1117" name="theme-color"/>
+<meta content="2026-03-27" name="last-modified"/>
+<meta content="Section 329 Fee Disgorgement - Get Fees Back [2026]" property="og:title"/>
+<meta content="Section 329 lets courts order fee disgorgement from bankruptcy attorneys. Learn how to file, what evidence you need, and fee limits. 2026 guide." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://section329.org/" property="og:url"/>
+<meta content="section329.org" property="og:site_name"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Section 329 Fee Disgorgement - Get Fees Back [2026]" name="twitter:title"/>
+<meta content="Section 329 lets courts order fee disgorgement from bankruptcy attorneys. Learn how to file, what evidence you need, and fee limits. 2026 guide." name="twitter:description"/>
+<meta content="https://section329.org/og-image.svg" property="og:image"/>
+<meta content="https://section329.org/og-image.svg" name="twitter:image"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NonprofitOrganization",
+  "name": "Open Bankruptcy Project",
+  "url": "https://section329.org",
+  "description": "Free, open-source bankruptcy information. Real information, no strings.",
+  "nonprofitStatus": "https://schema.org/Nonprofit501c3"
+}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is Section 329?", "acceptedAnswer": {"@type": "Answer", "text": "Section 329 requires attorneys to disclose compensation and gives the court power to review fees and order disgorgement of any excess."}}, {"@type": "Question", "name": "Who can request a fee review?", "acceptedAnswer": {"@type": "Answer", "text": "The debtor, trustee, U.S. Trustee, any creditor, or the court on its own motion."}}, {"@type": "Question", "name": "What happens if an attorney fails to disclose fees?", "acceptedAnswer": {"@type": "Answer", "text": "Courts have ordered complete disgorgement for failure to disclose, even when fees were otherwise reasonable."}}, {"@type": "Question", "name": "What is the standard for excessive fees?", "acceptedAnswer": {"@type": "Answer", "text": "Courts consider time spent, complexity, attorney skill, local market rates, results obtained, and the amount at stake."}}, {"@type": "Question", "name": "What is Section 329 of the Bankruptcy Code?", "acceptedAnswer": {"@type": "Answer", "text": "Section 329 requires attorneys representing debtors to disclose all compensation received or agreed to within one year before filing. It gives the bankruptcy court power to review the reasonableness of fees and order disgorgement of any amount that exceeds the reasonable value of services."}}, {"@type": "Question", "name": "Can the court review attorney fees in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Under Section 329(b), the court can review attorney fees on its own motion or at the request of any party in interest, including the debtor, trustee, U.S. Trustee, or any creditor. The court can cancel the fee agreement and order the return of any excessive payments."}}, {"@type": "Question", "name": "What is fee disgorgement?", "acceptedAnswer": {"@type": "Answer", "text": "Fee disgorgement is a court order requiring a bankruptcy attorney to return some or all of the fees they collected from the debtor. Courts order disgorgement when fees are excessive, when the attorney failed to make required disclosures, or when services were inadequate for the amount charged."}}]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "Section 329 - Attorney Fee Disgorgement in Bankruptcy", "description": "Guide to Section 329 attorney fee disgorgement. Disclosure requirements, reasonableness standard, and how to request a fee review.", "author": {"@type": "Organization", "name": "Open Bankruptcy Project"}, "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org"}, "datePublished": "2026-03-28", "dateModified": "2026-03-29", "mainEntityOfPage": "https://section329.org/"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://section329.org"}, {"@type": "ListItem", "position": 2, "name": "Section 329 Fee Disgorgement", "item": "https://section329.org"}]}, {"@type": "HowTo", "name": "Section 329 - Attorney Fee Disgorgement in Bankruptcy", "step": [{"@type": "HowToStep", "position": 1, "text": "Reasonableness review: The court may examine and order disgorgement of any excess", "name": "Reasonableness review: The court may examine and order disgorgement of any excess"}, {"@type": "HowToStep", "position": 2, "text": "Whether compensation has been shared with any other entity", "name": "Whether compensation has been shared with any other entity"}, {"@type": "HowToStep", "position": 3, "text": "Terms of compensation agreements", "name": "Terms of compensation agreements"}, {"@type": "HowToStep", "position": 4, "text": "All payments received within one year before filing", "name": "All payments received within one year before filing"}, {"@type": "HowToStep", "position": 5, "text": "Source of all payments", "name": "Source of all payments"}, {"@type": "HowToStep", "position": 6, "text": "Time and labor required", "name": "Time and labor required"}, {"@type": "HowToStep", "position": 7, "text": "Novelty and difficulty of legal questions", "name": "Novelty and difficulty of legal questions"}, {"@type": "HowToStep", "position": 8, "text": "Skill required", "name": "Skill required"}, {"@type": "HowToStep", "position": 9, "text": "Customary local fees", "name": "Customary local fees"}]}, {"@type": "WebPage", "name": "Section 329 - Attorney Fee Disgorgement in Bankruptcy", "url": "https://section329.org/", "speakable": {"@type": "SpeakableSpecification", "cssSelector": [".quick-answer", "h1", ".summary", "p:first-of-type"]}}, {"@type": "SiteNavigationElement", "name": "BTN Network", "url": ["https://1328f.com", "https://1328f.org", "https://automaticstay.org", "https://341meeting.org", "https://523a.org", "https://109g.org", "https://727a8.com", "https://meanstest.org", "https://chapter7vs13.org", "https://howtofilebankruptcy.org"]}]}
+</script>
+<style>
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 9999; padding: 1rem; background: #238636; color: #fff; font-weight: 600; text-decoration: none; }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; } .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; } header h1 .accent { color: var(--accent); }
+  header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+  main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+  .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
+  .content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.5rem 0 0.75rem; }
+  .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+  .content-section ul, .content-section ol { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
+  .content-section li { margin-bottom: 0.4rem; }
+  .statute-box { background: #21262d; border-left: 3px solid var(--accent); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .statute-box p { margin-bottom: 0.5rem; } .statute-box p:last-child { margin-bottom: 0; }
+  .warning-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .warning-box p { margin-bottom: 0.5rem; } .warning-box p:last-child { margin-bottom: 0; }
+  .yellow-box { background: #21262d; border-left: 3px solid var(--yellow); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .yellow-box p { margin-bottom: 0.5rem; } .yellow-box p:last-child { margin-bottom: 0; }
+  .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .green-box p { margin-bottom: 0.5rem; } .green-box p:last-child { margin-bottom: 0; }
+  .content-section table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+  .content-section th, .content-section td { padding: 0.6rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
+  .content-section th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+  .page-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.25rem; margin: 1.5rem 0; }
+  .page-card { background: #21262d; border: 1px solid var(--border); border-radius: 6px; padding: 1.5rem; transition: border-color 0.2s; }
+  .page-card:hover { border-color: var(--accent); }
+  .page-card h3 { color: #f0f6fc; font-size: 1rem; margin: 0 0 0.5rem; }
+  .page-card p { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 0.75rem; }
+  .page-card a { font-size: 0.9rem; font-weight: 600; }
+  .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
+  .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
+  .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
+  .cta-box .cta-links { display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; }
+  .cta-box .cta-links a { display: inline-block; padding: 0.6rem 1.5rem; border-radius: 6px; font-weight: 600; font-size: 0.95rem; }
+  .cta-links .primary-btn { background: #238636; color: #fff; } .cta-links .primary-btn:hover { background: #2ea043; text-decoration: none; }
+  .cta-links .secondary-btn { background: var(--border); color: var(--text); } .cta-links .secondary-btn:hover { background: #484f58; text-decoration: none; }
+  .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
+  .network-footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+  .network-footer .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 0.75rem; }
+  .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; } .network-footer .links a:hover { color: var(--accent); }
+  .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.5rem; } main { padding: 1.5rem 1rem; } .content-section { padding: 1.25rem; }
+    nav { padding: 0.75rem 1rem; } .hamburger { display: block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
+    .nav-links.open { display: flex; }
+    .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
+    .content-section table { font-size: 0.8rem; } .content-section th, .content-section td { padding: 0.5rem; }
+  }
+</style>
+</head>
+<body>
+<!-- aggressive-interlink:lang-en -->
+<div style="background:#161b22;border-bottom:1px solid #30363d;padding:8px 16px;text-align:center;font-size:0.85em"><a href="/es.html" style="color:#58a6ff;text-decoration:none">🌐 Esta pagina esta disponible en Espanol</a></div>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<nav aria-label="Site navigation" role="navigation">
+<a class="site-name" href="/">section329.org</a>
+<button aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">☰</button>
+<div class="nav-links">
+<a class="active" href="/">Home</a>
+<a href="/fee-disclosure.html">Fee Disclosure</a>
+<a href="/excessive-fees.html">Excessive Fees</a>
+<a href="/329b-motion.html">329(b) Motion</a>
+<a href="/motion-template.html">Template</a>
+<a href="/fee-app-deficiencies.html">Deficiencies</a>
+<a href="/ust-authority.html">UST Authority</a>
+<a href="/ust-fee-review.html">UST Review</a>
+<a href="/caselaw.html">Caselaw</a>
+<a href="/circuits/">By Circuit</a>
+<a href="/rule-2016b-disclosure.html">Rule 2016(b)</a>
+<a href="/disgorgement.html">Disgorgement</a>
+<a href="/attorney-rights.html">Attorney Rights</a>
+</div>
+</nav>
+<div class="obp-banner" style="background:#151b23;border-bottom:1px solid #252d38;padding:8px 16px;text-align:center;font-size:0.82rem;color:#7d8590;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  Part of the <a href="https://openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none;font-weight:600">Open Bankruptcy Project</a> - 161+ free domains, 115,000+ pages, $0 cost
+</div>
+<header>
+<h1><a href="https://www.law.cornell.edu/uscode/text/11/329" rel="noopener" target="_blank">Section 329</a> Fee Disgorgement</h1>
+<p class="subtitle">The court's power to review and order return of excessive attorney fees. Disclosure, reasonableness, and disgorgement.</p>
+</header>
+<main id="main-content">
+<div class="content-section">
+<h2>What Is <a href="https://www.law.cornell.edu/uscode/text/11/329" rel="noopener" target="_blank">Section 329</a>?</h2>
+<p>Section 329 imposes two requirements on attorneys representing debtors:</p>
+<ol>
+<li><strong>Disclosure:</strong> File a statement of all compensation paid or agreed (<a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a>)</li>
+<li><strong>Reasonableness review:</strong> The court may examine and order disgorgement of any excess</li>
+</ol>
+<div class="statute-box"><p><strong>11 U.S.C. <a href="https://www.law.cornell.edu/uscode/text/11/329#a_0" rel="noopener" target="_blank">Section 329(a)</a>:</strong> "Any attorney representing a debtor... shall file with the court a statement of the compensation paid or agreed to be paid, if such payment or agreement was made after one year before the date of the filing of the petition..."</p></div>
+</div>
+<div class="content-section">
+<h2>The Disclosure Requirement</h2>
+<p>Under <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a>, every debtor's attorney must disclose within 14 days after the order for relief:</p>
+<ul>
+<li>Whether compensation has been shared with any other entity</li>
+<li>Terms of compensation agreements</li>
+<li>All payments received within one year before filing</li>
+<li>Source of all payments</li>
+</ul>
+<div class="warning-box"><p><strong>Failure to disclose is punished severely.</strong> Courts have ordered complete disgorgement even when fees were otherwise reasonable.</p></div>
+</div>
+<div class="content-section">
+<h2>The Reasonableness Standard</h2>
+<ul>
+<li>Time and labor required</li>
+<li>Novelty and difficulty of legal questions</li>
+<li>Skill required</li>
+<li>Customary local fees</li>
+<li>Amount at stake and results obtained</li>
+<li>Attorney experience and reputation</li>
+</ul>
+</div>
+<div class="content-section">
+<h2>How Disgorgement Works</h2>
+<p>Under 329(b), the court can cancel fee agreements or order return of excessive payments - to the estate or to the entity that paid.</p>
+<p>The U.S. Trustee actively monitors fee applications in many districts.</p>
+<p>If your attorney charged excessive fees or provided inadequate representation, you may also have a <a href="https://bankruptcymalpractice.org/">bankruptcy malpractice</a> claim independent of the disgorgement remedy.</p>
+</div>
+<div class="content-section">
+<h2>Explore This Site</h2>
+<div class="page-grid">
+<div class="page-card"><h3>Fee Disclosure</h3><p><a href="https://www.law.cornell.edu/uscode/text/11/329#a_0" rel="noopener" target="_blank">Section 329(a)</a> disclosure obligation. What must be disclosed and when.</p><a href="/fee-disclosure.html">Read more →</a></div>
+<div class="page-card"><h3>Excessive Fees</h3><p>What courts consider excessive. District averages and guidelines.</p><a href="/excessive-fees.html">Read more →</a></div>
+<div class="page-card"><h3>329(b) Motion</h3><p>How to file for fee review. Standing and what to prove.</p><a href="/329b-motion.html">Read more →</a></div>
+<div class="page-card"><h3>UST Fee Review</h3><p>The U.S. Trustee's role in policing attorney fees.</p><a href="/ust-fee-review.html">Read more →</a></div>
+<div class="page-card"><h3>Caselaw Map</h3><p>Curated 329(b) precedent, 8th + 10th Circuit, with CourtListener deep links.</p><a href="/caselaw.html">Read more →</a></div>
+<div class="page-card"><h3>Motion Template</h3><p>Seven-part structural scaffold with caselaw anchors. Caption through WHEREFORE.</p><a href="/motion-template.html">Read more →</a></div>
+<div class="page-card"><h3>UST Authority</h3><p>Section 307 standing, Rule 2017 procedural vehicle, and the case law establishing UST initiative.</p><a href="/ust-authority.html">Read more →</a></div>
+<div class="page-card"><h3>Deficiencies Checklist</h3><p>Four-layer operational checklist. 19 red-flag categories for reviewing fee applications.</p><a href="/fee-app-deficiencies.html">Read more →</a></div>
+<div class="page-card"><h3>Rule 2016(b) Disclosure</h3><p>Attorney compensation disclosure compliance. Initial + supplemental statements.</p><a href="/rule-2016b-disclosure.html">Read more →</a></div>
+<div class="page-card"><h3>Section 329(a) Disclosure</h3><p>Statutory disclosure requirement, 12-month look-back, source of funds.</p><a href="/329a-disclosure.html">Read more →</a></div>
+<div class="page-card"><h3>Disgorgement Remedy</h3><p>Full vs partial disgorgement mechanics. Stewart default rule.</p><a href="/disgorgement.html">Read more →</a></div>
+<div class="page-card"><h3><a href="https://www.law.cornell.edu/rules/frbp/rule_2017" rel="noopener" target="_blank">Rule 2017</a> + Sua Sponte</h3><p>Procedural vehicle. Court's own-motion authority. UST <a href="https://www.law.cornell.edu/uscode/text/11/307" rel="noopener" target="_blank">Section 307</a> standing.</p><a href="/rule-2017-sua-sponte.html">Read more →</a></div>
+<div class="page-card"><h3>Subchapter V Fees</h3><p>Fee review in small-business Chapter 11. <a href="https://www.law.cornell.edu/uscode/text/11/1195" rel="noopener" target="_blank">Section 1195</a> trustee compensation.</p><a href="/subchapter-v-fees.html">Read more →</a></div>
+<div class="page-card"><h3>Sub V Caselaw</h3><p>Developing doctrine. Statutory framework, applicable precedent by analogy, and open questions.</p><a href="/subchapter-v-fee-caselaw.html">Read more →</a></div>
+<div class="page-card"><h3>Attorney Rights</h3><p><a href="https://www.law.cornell.edu/uscode/text/11/330" rel="noopener" target="_blank">Section 330</a> reasonable compensation. The lodestar method.</p><a href="/attorney-rights.html">Read more →</a></div>
+</div>
+</div>
+<div class="content-section">
+<h2>Section 329 by Federal Circuit</h2>
+<p>Attorney fee disgorgement is a national doctrine, but each federal circuit applies it differently. Circuits like the Third, Ninth, and Tenth have binding precedent that effectively mandates full disgorgement for undisclosed compensation. Others rely on out-of-circuit persuasive authority. Each page below covers the leading in-circuit case law, Chapter 11 filing volume, and practice tips.</p>
+<div class="page-grid">
+<div class="page-card"><h3>1st Circuit</h3><p>ME, MA, NH, RI, PR</p><a href="/circuits/1st-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>2nd Circuit</h3><p>NY, CT, VT. Futuronics discretion standard.</p><a href="/circuits/2nd-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>3rd Circuit</h3><p>PA, NJ, DE, VI. Engel controls.</p><a href="/circuits/3rd-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>4th Circuit</h3><p>MD, VA, WV, NC, SC. Walters inherent authority.</p><a href="/circuits/4th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>5th Circuit</h3><p>TX, LA, MS. Prudhomme regulatory-remedy doctrine.</p><a href="/circuits/5th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>6th Circuit</h3><p>MI, OH, KY, TN. Downs "faithful and candid."</p><a href="/circuits/6th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>7th Circuit</h3><p>IL, IN, WI.</p><a href="/circuits/7th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>8th Circuit</h3><p>MO, AR, IA, MN, NE, ND, SD. Stewart persuasive.</p><a href="/circuits/8th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>9th Circuit</h3><p>CA, OR, WA, AZ, NV, ID, MT, AK, HI. Park-Helena binding.</p><a href="/circuits/9th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>10th Circuit</h3><p>CO, NM, WY, UT, KS, OK. Stewart binding.</p><a href="/circuits/10th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>11th Circuit</h3><p>FL, GA, AL. Keller Financial persuasive.</p><a href="/circuits/11th-circuit.html">Read more →</a></div>
+<div class="page-card"><h3>D.C. Circuit</h3><p>District of Columbia.</p><a href="/circuits/dc-circuit.html">Read more →</a></div>
+</div>
+<p><a href="/circuits/"><strong>Browse all circuits →</strong></a></p>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
+<p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
+<form action="https://formspree.io/f/xkoqeyzw" method="POST" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap">
+<input aria-label="your@email.com" name="email" placeholder="your@email.com" required="" style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px" type="email"/>
+<input name="_subject" type="hidden" value="BTN Research Subscriber"/>
+<button style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer" type="submit">Subscribe</button>
+</form>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
+<p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://bankruptcymalpractice.org" style="color:#58a6ff">bankruptcymalpractice.org</a> - <a href="https://bankruptcymalpractice.org/" title="bankruptcy malpractice">Attorney malpractice</a> guide</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://prosedebtors.org" style="color:#58a6ff">pro se bankruptcy filing guide</a> - Filing <a href="https://filebankruptcywithoutlawyer.com/" title="file without a lawyer">without an attorney</a></p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://howtofilebankruptcy.org" style="color:#58a6ff">step-by-step bankruptcy filing guide</a> - Step-by-step filing guide</p>
+</div>
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="https://bankruptcymill.com" style="color:#58a6ff;text-decoration:none">What is a Bankruptcy Mill?</a></li>
+<li><a href="https://openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none">Open Bankruptcy Project</a></li>
+<li><a href="https://monitor.openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none">Attorney Monitoring Dashboard</a></li>
+</ul>
+</div>
+<div class="faq-section">
+<h2>Frequently Asked Questions</h2>
+<div class="faq-item">
+<h3>What is Section 329 of the Bankruptcy Code?</h3>
+<p>Section 329 requires attorneys representing debtors to disclose all compensation received or agreed to within one year before filing. It gives the bankruptcy court power to review the reasonableness of fees and order disgorgement of any amount that exceeds the reasonable value of services.</p>
+</div>
+<div class="faq-item">
+<h3>Can the court review attorney fees in bankruptcy?</h3>
+<p>Yes. Under <a href="https://www.law.cornell.edu/uscode/text/11/329#b_0" rel="noopener" target="_blank">Section 329(b)</a>, the court can review attorney fees on its own motion or at the request of any party in interest, including the debtor, trustee, U.S. Trustee, or any creditor. The court can cancel the fee agreement and order the return of any excessive payments.</p>
+</div>
+<div class="faq-item">
+<h3>What is fee disgorgement?</h3>
+<p>Fee disgorgement is a court order requiring a bankruptcy attorney to return some or all of the fees they collected from the debtor. Courts order disgorgement when fees are excessive, when the attorney failed to make required disclosures, or when services were inadequate for the amount charged.</p>
+</div>
+</div>
+</main>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+<p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on bankruptcy trustees and the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a>:</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/341" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 341</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - meeting of creditors</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/329" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 329</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - attorney fee review</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.justice.gov/ust" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">U.S. Trustee Program</a><br/><span style="color:#7d8590;font-size:0.8rem">DOJ bankruptcy oversight</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Bankruptcy Basics</a><br/><span style="color:#7d8590;font-size:0.8rem">USCourts.gov</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/ask-cfpb/what-is-bankruptcy-en-1935/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">CFPB: What Is Bankruptcy?</a><br/><span style="color:#7d8590;font-size:0.8rem">Consumer guide</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Find Free Legal Aid</a><br/><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22chapter+7+trustee%22+%22341+meeting%22+bankruptcy" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Trustee Research</a><br/><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+</ul>
+</div>
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://bankruptcycost.com?utm_source=section329.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Bankruptcy Filing Costs</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcycost.com →</p>
+</a>
+<a class="related-card" href="https://bankruptcycost.org?utm_source=section329.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">How Much Does Bankruptcy Cost</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Filing fees, attorney costs, and fee waivers</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcycost.org →</p>
+</a>
+<a class="related-card" href="https://bankruptcymalpractice.org?utm_source=section329.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Bankruptcy Attorney Malpractice</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcymalpractice.org →</p>
+</a>
+<a class="related-card" href="https://howmuchdoesbankruptcycost.com?utm_source=section329.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Bankruptcy Cost Breakdown</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Full cost breakdown for Chapter 7 and 13</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">howmuchdoesbankruptcycost.com →</p>
+</a>
+</div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+
+  .faq-section { margin: 2rem 0; }
+  .faq-section h2 { color: var(--accent, #58a6ff); font-size: 1.4rem; margin-bottom: 1rem; }
+  .faq-item { background: var(--surface, #151b23); border: 1px solid var(--border, #30363d); border-radius: 8px; margin: 0.75rem 0; padding: 1rem 1.5rem; }
+  .faq-item h3 { color: var(--text, #e6edf3); font-size: 1rem; margin-bottom: 0.5rem; }
+  .faq-item p { color: var(--text-muted, #9eaab6); font-size: 0.95rem; margin: 0; }
+</style>
+<!-- USER JOURNEY CROSS-LINKS (data-driven funnel) -->
+<div style="max-width:900px;margin:1.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.1rem;margin:0 0 0.5rem 0;text-align:center">Your Next Questions</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0;text-align:center">Real users ask these next - we built the answers.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://chapter7vs13.org?utm_source=section329.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 vs Chapter 13</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Understand your case before hiring</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">chapter7vs13.org →</p>
+</a>
+<a class="related-card" href="https://howmuchdoesbankruptcycost.com?utm_source=section329.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">How Much Does It Cost?</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">What attorneys should charge by chapter and state</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">howmuchdoesbankruptcycost.com →</p>
+</a>
+<a class="related-card" href="https://filebankruptcywithoutlawyer.com?utm_source=section329.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">File Without a Lawyer?</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">When pro se makes sense and when it does not</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">filebankruptcywithoutlawyer.com →</p>
+</a>
+<a class="related-card" href="https://1328f.com/how-to-find-a-bankruptcy-lawyer.html?utm_source=section329.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">How to Find a Good Attorney</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Data-driven guide to evaluating bankruptcy lawyers</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">1328f.com →</p>
+</a>
+</div>
+</div>
+<!-- /USER JOURNEY -->
+<!-- /RELATED GUIDES -->
+<!-- STATE GUIDES CROSS-LINK (injected by inject_state_links.py 2026-04-01) -->
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.25rem 1.5rem;max-width:700px;margin:2rem auto;text-align:center">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.5rem">State Bankruptcy Guides</p>
+<p style="color:#9eaab6;font-size:0.88rem;margin:0 0 0.75rem">Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.</p>
+<p style="margin:0 0 0.75rem;font-size:0.85rem;line-height:1.8"><a href="https://bankruptcyexemptionsbystate.com/states/california.html" style="color:#58a6ff;white-space:nowrap">California</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/texas.html" style="color:#58a6ff;white-space:nowrap">Texas</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/florida.html" style="color:#58a6ff;white-space:nowrap">Florida</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/new-york.html" style="color:#58a6ff;white-space:nowrap">New York</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/illinois.html" style="color:#58a6ff;white-space:nowrap">Illinois</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/ohio.html" style="color:#58a6ff;white-space:nowrap">Ohio</a></p>
+<a href="https://bankruptcyexemptionsbystate.com/states/" style="display:inline-block;background:#238636;color:#fff;padding:0.45rem 1.25rem;border-radius:6px;font-weight:600;font-size:0.88rem;text-decoration:none">Browse All 50 State Guides →</a>
+</div>
+<!-- /STATE GUIDES CROSS-LINK -->
+<!-- aggressive-interlink:glossary -->
+<div style="text-align:center;padding:0.75rem 0;margin-top:1rem"><a href="https://whathappensinbankruptcy.com/glossary/" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">📖 Bankruptcy Glossary</a> <span style="color:#7d8590;font-size:0.85rem">-- 61 terms explained</span></div>
+<!-- GEO CARD (timezone-based state suggestion) -->
+<div id="geo-card" style="display:none;max-width:700px;margin:1.5rem auto;padding:0 1rem">
+<div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-align:center">
+<p id="geo-heading" style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.5rem">Filing in Your State?</p>
+<p style="color:#9eaab6;font-size:0.88rem;margin:0 0 0.75rem">Exemptions vary dramatically by state. Check what you can protect.</p>
+<a href="https://bankruptcyexemptionsbystate.com/states/?utm_source=section329.org&amp;utm_medium=geo-card&amp;utm_campaign=btn-funnel" id="geo-link" style="display:inline-block;background:#238636;color:#fff;padding:0.45rem 1.25rem;border-radius:6px;font-weight:600;font-size:0.88rem;text-decoration:none">Browse Your State's Exemptions →</a>
+</div>
+</div>
+<script>
+(function(){
+  try {
+    var tz = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+    var map = {
+      'America/New_York': {s:'new-york',n:'New York'},
+      'America/Chicago': {s:'illinois',n:'Illinois'},
+      'America/Denver': {s:'colorado',n:'Colorado'},
+      'America/Los_Angeles': {s:'california',n:'California'},
+      'America/Phoenix': {s:'arizona',n:'Arizona'},
+      'America/Anchorage': {s:'alaska',n:'Alaska'},
+      'Pacific/Honolulu': {s:'hawaii',n:'Hawaii'},
+      'America/Indiana/Indianapolis': {s:'indiana',n:'Indiana'},
+      'America/Detroit': {s:'michigan',n:'Michigan'},
+      'America/Kentucky/Louisville': {s:'kentucky',n:'Kentucky'},
+      'America/Boise': {s:'idaho',n:'Idaho'}
+    };
+    var info = map[tz];
+    if (!info) {
+      if (tz.indexOf('America/New_York') !== -1 || tz.indexOf('Eastern') !== -1) info = map['America/New_York'];
+      else if (tz.indexOf('America/Chicago') !== -1 || tz.indexOf('Central') !== -1) info = map['America/Chicago'];
+      else if (tz.indexOf('America/Denver') !== -1 || tz.indexOf('Mountain') !== -1) info = map['America/Denver'];
+      else if (tz.indexOf('America/Los_Angeles') !== -1 || tz.indexOf('Pacific') !== -1) info = map['America/Los_Angeles'];
+    }
+    if (info) {
+      var src = 'section329.org';
+      document.getElementById('geo-heading').textContent = 'Filing in ' + info.n + '?';
+      document.getElementById('geo-link').href = 'https://bankruptcyexemptionsbystate.com/states/' + info.s + '.html?utm_source=' + src + '&utm_medium=geo-card&utm_campaign=btn-funnel';
+      document.getElementById('geo-link').textContent = info.n + ' Bankruptcy Exemptions \u2192';
+    }
+    document.getElementById('geo-card').style.display = 'block';
+  } catch(e) {}
+})();
+</script>
+<!-- /GEO CARD -->
+<!-- OBP Contact Form - deployed by deploy_btn_contact_form.py -->
+<div id="obp-help-form" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.5rem;margin:2rem auto;max-width:600px">
+<h3 style="color:#c9d1d9;margin-top:0;margin-bottom:0.5rem">Have a Question?</h3>
+<p style="color:#8b949e;font-size:0.85rem;margin-bottom:1rem">
+    Open Bankruptcy Project provides free educational information. We are not a law firm.
+    Nothing on this site constitutes legal advice. For advice about your specific situation,
+    consult a licensed attorney.
+  </p>
+<form id="obp-help-submit" style="margin:0">
+<input name="source" type="hidden" value="section329.org"/>
+<input name="topic" type="hidden" value="Site Question"/>
+<input aria-label="Name (optional)" name="name" placeholder="Name (optional)" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem" type="text"/>
+<input aria-label="Email" name="email" placeholder="Email" required="" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem" type="email"/>
+<select name="state" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem;appearance:auto">
+<option value="">Select your state...</option>
+<option value="AL">Alabama</option>
+<option value="AK">Alaska</option>
+<option value="AZ">Arizona</option>
+<option value="AR">Arkansas</option>
+<option value="CA">California</option>
+<option value="CO">Colorado</option>
+<option value="CT">Connecticut</option>
+<option value="DE">Delaware</option>
+<option value="DC">District of Columbia</option>
+<option value="FL">Florida</option>
+<option value="GA">Georgia</option>
+<option value="HI">Hawaii</option>
+<option value="ID">Idaho</option>
+<option value="IL">Illinois</option>
+<option value="IN">Indiana</option>
+<option value="IA">Iowa</option>
+<option value="KS">Kansas</option>
+<option value="KY">Kentucky</option>
+<option value="LA">Louisiana</option>
+<option value="ME">Maine</option>
+<option value="MD">Maryland</option>
+<option value="MA">Massachusetts</option>
+<option value="MI">Michigan</option>
+<option value="MN">Minnesota</option>
+<option value="MS">Mississippi</option>
+<option value="MO">Missouri</option>
+<option value="MT">Montana</option>
+<option value="NE">Nebraska</option>
+<option value="NV">Nevada</option>
+<option value="NH">New Hampshire</option>
+<option value="NJ">New Jersey</option>
+<option value="NM">New Mexico</option>
+<option value="NY">New York</option>
+<option value="NC">North Carolina</option>
+<option value="ND">North Dakota</option>
+<option value="OH">Ohio</option>
+<option value="OK">Oklahoma</option>
+<option value="OR">Oregon</option>
+<option value="PA">Pennsylvania</option>
+<option value="RI">Rhode Island</option>
+<option value="SC">South Carolina</option>
+<option value="SD">South Dakota</option>
+<option value="TN">Tennessee</option>
+<option value="TX">Texas</option>
+<option value="UT">Utah</option>
+<option value="VT">Vermont</option>
+<option value="VA">Virginia</option>
+<option value="WA">Washington</option>
+<option value="WV">West Virginia</option>
+<option value="WI">Wisconsin</option>
+<option value="WY">Wyoming</option>
+<option value="AS">American Samoa</option>
+<option value="GU">Guam</option>
+<option value="MP">Northern Mariana Islands</option>
+<option value="PR">Puerto Rico</option>
+<option value="VI">U.S. Virgin Islands</option>
+</select>
+<textarea name="message" placeholder="Your question..." required="" rows="4" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem;resize:vertical"></textarea>
+<label style="color:#8b949e;font-size:0.8rem;display:flex;align-items:start;gap:0.5rem;margin:0.5rem 0 1rem;cursor:pointer">
+<input aria-label="checkbox" required="" style="margin-top:2px;accent-color:#bf3989" type="checkbox"/>
+      I understand this is educational information, not legal advice.
+    </label>
+<button onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="background:#bf3989;color:#fff;border:none;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;cursor:pointer;transition:background 0.2s" type="submit">Submit Question</button>
+</form>
+<p id="obp-help-thanks" style="display:none;color:#3fb950;font-weight:600;margin:1rem 0 0">Thank you! We typically respond within one business day.</p>
+<script>
+  document.getElementById('obp-help-submit').addEventListener('submit',function(e){
+    e.preventDefault();var f=this,b=f.querySelector('button[type=submit]');
+    b.disabled=true;b.textContent='Sending...';
+    var d={name:f.querySelector('[name=name]').value,email:f.querySelector('[name=email]').value,
+      state:f.querySelector('[name=state]').value,
+      message:f.querySelector('[name=message]').value,
+      topic:'Site Question ('+f.querySelector('[name=source]').value+')'};
+    fetch('https://script.google.com/macros/s/AKfycbwSILiwrhpiognHpMEws-j7Yc-aySqk3vDkCXFmNe-hA-tHrzGC6qid7f6ZqBy3n9sqiQ/exec',{method:'POST',body:JSON.stringify(d)})
+    .then(function(){f.style.display='none';document.getElementById('obp-help-thanks').style.display='block'})
+    .catch(function(){f.style.display='none';document.getElementById('obp-help-thanks').style.display='block'});
+  });
+  </script>
+</div>
+<!-- /OBP Contact Form -->
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=section329.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=section329.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=section329.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
+</ul>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer class="network-footer" role="contentinfo">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+<p>A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit</p>
+<p>Real information, no strings.</p>
+<!-- RECAP Counter -->
+<div style="text-align:center;margin:1.5rem auto;max-width:600px">
+<a href="https://openbankruptcyproject.org/recap.html?utm_source=btn&amp;utm_medium=crosslink&amp;utm_campaign=section329.org" style="display:inline-block;background:#0d1117;border:1px solid #238636;color:#3fb950;padding:0.6rem 1.5rem;border-radius:6px;font-weight:700;font-size:0.95rem;text-decoration:none;letter-spacing:-0.01em">462+ Court Documents Freed from PACER</a>
+<p style="color:#7d8590;font-size:0.78rem;margin-top:0.4rem">We buy federal court records and donate them to RECAP so no one has to pay. <a href="https://openbankruptcyproject.org/recap.html?utm_source=btn&amp;utm_medium=crosslink&amp;utm_campaign=section329.org" style="color:#58a6ff;text-decoration:none">Browse the archive →</a></p>
+</div>
+<!-- Transparency Counter -->
+<div style="text-align:center;margin:0.5rem auto 1.5rem;max-width:600px">
+<p style="color:#7d8590;font-size:0.8rem;margin:0;letter-spacing:0.02em"><strong style="color:#e6edf3">$16,500+ spent</strong> · <strong style="color:#e6edf3">$0 donated</strong> · <strong style="color:#e6edf3">$0 hosting</strong> · 105 domains · 2,000+ pages · All free, forever.</p>
+</div>
+<div class="links">
+<a href="https://automaticstay.org?utm_source=section329.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">automaticstay.org</a>
+<a href="https://meanstest.org?utm_source=section329.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">meanstest.org</a>
+<a href="https://341meeting.org?utm_source=section329.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">341meeting.org</a>
+<a href="https://523a.org?utm_source=section329.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">523a.org</a>
+<a href="https://109g.org?utm_source=section329.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">109g.org</a>
+<a href="https://727a8.com?utm_source=section329.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">727a8.com</a>
+<a href="https://prosedebtors.org?utm_source=section329.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">prosedebtors.org</a>
+<a href="https://howtofilebankruptcy.org?utm_source=section329.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">howtofilebankruptcy.org</a>
+<a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
+<a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
+</div>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.</p>
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" rel="noopener" style="color:#58a6ff" target="_blank">Suggestion 26-BK-3</a></p>
+</div>
+</footer>
+<!-- BTN:FOOTER:END -->
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+<p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">91</span> of 37.9 million</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
+<div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
+<p style="margin-bottom:0.25rem"><span style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
+<p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing. 0 supporters so far.</p>
+<a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
+</div>
+<script defer="" src="/btn-engage.js"></script>
+<script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+<div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>
