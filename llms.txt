@@ -1,5 +1,5 @@
 # Section 329 Fee Disgorgement - Get Fees Back [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Section 329 lets courts order fee disgorgement from bankruptcy attorneys. Learn how to file, what evidence you need, and fee limits. 2026 guide.
 
@@ -7,15 +7,66 @@
 section329.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- 329(b) Motion for Fee Disgorgement - How to File: https://section329.org/329b-motion.html
-- Bankruptcy Attorney Fee Rights - Section 330 Reasonable Compensation: https://section329.org/attorney-rights.html
+- 11 USC 329(b) Motion for Fee Disgorgement [2026]: How to File for Excessive Bankruptcy Attorney Fees: https://section329.org/329b-motion.html
+- Bankruptcy Attorney Fee Rights [2026]: 11 USC 330 Reasonable Compensation Standards: https://section329.org/attorney-rights.html
 - Attorney Fee Disclosure Requirements - Section 329(a): https://section329.org/disclosure-requirements.html
 - Excessive Bankruptcy Attorney Fees - What Courts Consider: https://section329.org/excessive-fees.html
-- Bankruptcy Attorney Fee Disclosure - Section 329(a): https://section329.org/fee-disclosure.html
+- Bankruptcy Attorney Fee Disclosure [2026]: 11 USC 329(a) and Rule 2016(b) Requirements: https://section329.org/fee-disclosure.html
 - How to File a Section 329 Fee Disgorgement Motion: https://section329.org/how-to-file.html
 - Section 329 Fee Disgorgement - Get Fees Back: https://section329.org/
-- UST Review of Bankruptcy Attorney Fees: https://section329.org/ust-fee-review.html
+- U.S. Trustee Review of Bankruptcy Attorney Fees [2026]: How UST Audits 11 USC 329(a) Disclosures: https://section329.org/ust-fee-review.html
 - Privacy Policy: https://section329.org/privacy.html
+- Section 329 vs Section 330 - Two Distinct Fee Review Regimes in Bankruptcy: https://section329.org/329-vs-330.html
+- Section 329(a) Disclosure Standard - Bankruptcy Attorney Compensation: https://section329.org/329a-disclosure.html
+- About section329.org: https://section329.org/about.html
+- Section 329(b) Caselaw Map - 8th + 10th Circuit Fee Disgorgement: https://section329.org/caselaw.html
+- Section 329 in the Tenth Circuit - Attorney Fee Disgorgement Case Law: https://section329.org/circuits/10th-circuit.html
+- Section 329 in the Eleventh Circuit - Attorney Fee Disgorgement Case Law: https://section329.org/circuits/11th-circuit.html
+- Section 329 in the First Circuit - Attorney Fee Disgorgement Case Law: https://section329.org/circuits/1st-circuit.html
+- Section 329 in the Second Circuit - Attorney Fee Disgorgement Case Law: https://section329.org/circuits/2nd-circuit.html
+- Section 329 in the Third Circuit - Attorney Fee Disgorgement Case Law: https://section329.org/circuits/3rd-circuit.html
+- Section 329 in the Fourth Circuit - Attorney Fee Disgorgement Case Law: https://section329.org/circuits/4th-circuit.html
+- Section 329 in the Fifth Circuit - Attorney Fee Disgorgement Case Law: https://section329.org/circuits/5th-circuit.html
+- Section 329 in the Sixth Circuit - Attorney Fee Disgorgement Case Law: https://section329.org/circuits/6th-circuit.html
+- Section 329 in the Seventh Circuit - Attorney Fee Disgorgement Case Law: https://section329.org/circuits/7th-circuit.html
+- Section 329 in the Eighth Circuit - Attorney Fee Disgorgement Case Law: https://section329.org/circuits/8th-circuit.html
+- Section 329 in the Ninth Circuit - Attorney Fee Disgorgement Case Law: https://section329.org/circuits/9th-circuit.html
+- Section 329 in the D.C. Circuit - Attorney Fee Disgorgement Case Law: https://section329.org/circuits/dc-circuit.html
+- Section 329 by Federal Circuit - Attorney Fee Disgorgement Case Law: https://section329.org/circuits/
+- Disgorgement Remedy Mechanics - Section 329(b) Full vs Partial Return of Fees: https://section329.org/disgorgement.html
+- Fee Application Deficiencies Checklist - Section 329(b) / Section 330 Review SOP: https://section329.org/fee-app-deficiencies.html
+- Section 329(b) Motion Template - Structural Scaffold for Fee Review: https://section329.org/motion-template.html
+- Rule 2004 Examinations in Attorney Fee Investigation: https://section329.org/rule-2004-fee-exam.html
+- Rule 2016(b) Disclosure Compliance - Bankruptcy Attorney Fee Disclosure: https://section329.org/rule-2016b-disclosure.html
+- Rule 2016(b) Disclosure Red Flags - What to Look For: https://section329.org/rule-2016b-red-flags.html
+- Rule 2017 &amp; U.S. Trustee Sua Sponte Authority - Fee Review Procedural Mechanics: https://section329.org/rule-2017-sua-sponte.html
+- Subchapter V Fee Review Caselaw &amp; Practice Guide - Developing Doctrine: https://section329.org/subchapter-v-fee-caselaw.html
+- Subchapter V Fee Review - Section 329(b) in Small Business Chapter 11: https://section329.org/subchapter-v-fees.html
+- U.S. Trustee Authority in Section 329(b) Fee Review - Rule 2017 + Section 307 Precedent: https://section329.org/ust-authority.html
+- Binary-Forcing Notice with Conditional Variants | Section 329: https://section329.org/methodology/binary-forcing-notice.html
+- Reserved-Instrument Discipline (Variants A through E) | Section 329: https://section329.org/methodology/reserved-instrument-discipline.html
+- Zugzwang Net Architecture | Section 329: https://section329.org/methodology/zugzwang-net-architecture.html
+- Fraud-by-Accumulation Framework | Section 329: https://section329.org/methodology/fraud-by-accumulation-framework.html
+- Vague Adverse Characterization Pattern Catalog | Section 329: https://section329.org/methodology/vague-adverse-characterization-pattern.html
+- Documentary-Anchoring Discipline | Section 329: https://section329.org/methodology/documentary-anchoring-discipline.html
+- Channel-Independent Escalation Discipline | Section 329: https://section329.org/methodology/channel-independent-escalation.html
+- UPL Guardrail with Counsel-Gated Federal Channel Routing | Section 329: https://section329.org/methodology/upl-guardrail-counsel-gated-routing.html
+- Counsel-Readability Standard | Section 329: https://section329.org/methodology/counsel-readability-standard.html
+- Exemplar-Case-for-AI-in-Law Positioning | Section 329: https://section329.org/methodology/exemplar-case-for-ai-in-law.html
+- Five-Tier Graduated Punishment Ladder | Section 329: https://section329.org/methodology/five-tier-graduated-punishment-ladder.html
+- Soft Documentary Trap | Section 329: https://section329.org/methodology/soft-documentary-trap.html
+- Category-Substitution Refusal Pattern Detection | Section 329: https://section329.org/methodology/category-substitution-refusal-pattern.html
+- Disclosed-Facts + Opinion-from-the-Record Structure | Section 329: https://section329.org/methodology/disclosed-facts-opinion-from-record.html
+- CFO-Incentive Cross-Case Outreach Framework | Section 329: https://section329.org/methodology/cfo-incentive-cross-case-outreach.html
+- Adversary Public-Statement Rebuke Structure | Section 329: https://section329.org/methodology/adversary-public-statement-rebuke.html
+- Hold Posture as Information Warfare | Section 329: https://section329.org/methodology/hold-posture-as-information-warfare.html
+- Attribution Publication Sequence (Methodology then RECAP then Bar) | Section 329: https://section329.org/methodology/attribution-publication-sequence.html
+- Originating-Attorney Attribution Methodology | Section 329: https://section329.org/methodology/originating-attorney-attribution.html
+- Spoliation Is Historical Not Cured | Section 329: https://section329.org/methodology/spoliation-historical-not-cured.html
+- Forensic Complainant Filling Federal Vacuum | Section 329: https://section329.org/methodology/forensic-complainant-filling-vacuum.html
+- Surveillance-Legibility Preservation Discipline | Section 329: https://section329.org/methodology/surveillance-legibility-preservation.html
+- Claude-Parallel Labor Architecture | Section 329: https://section329.org/methodology/claude-parallel-labor-architecture.html
+- No-Facade Architecture Principle | Section 329: https://section329.org/methodology/no-facade-architecture.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
